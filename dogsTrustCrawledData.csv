@@ -1,0 +1,949 @@
+age,breed,centreLocation,gender,hasPhoto,hasVideo,icon_childFriendly,icon_crossBreed,icon_dogFriendly,icon_gentleGiant,icon_hasBasicHousetraining,icon_hasMedicalNeeds,icon_livewire,icon_livingOffsite,icon_lovesCuddles,icon_lovesToysGames,icon_needsTraining,icon_smallButSparky,icon_strangerFriendly,icon_veryClever,icon_willWorkForFood,icon_youngAtHeart,isNewDog,name,numberOfPhotos,reserved
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'West Calder', 'Female', true, false,Child friendly (under 12 yrs),,,,,,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, true, 'Abby', 3, false
+ '5 to 7 Years', 'Shih Tzu  ', 'Shoreham', 'Male', true, false,,,,,,Medical needs,,,,,Needs some training,Small but sparky,Stranger friendly,,,, false, 'Alfie', 3, false
+ '5 to 7 Years', 'A Crossbreed ', 'Merseyside', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Alfie', 5, false
+ '2 to 5 Years', 'Belgian Shepherd Dog: Malinois (BSD)', 'London (Harefield)', 'Female', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Alessia', 5, false
+ '1 to 2 Years', 'Lurcher ', 'Shoreham', 'Male', true, true,,Crossbreed,,Gentle giant,,,,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Alby', 3, true
+ '1 to 2 Years', 'Staffordshire Cross (SBT)', 'Salisbury', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,,,,,Needs some training,,Stranger friendly,,,, true, 'Albie', 1, true
+ '2 to 5 Years', 'Siberian Husky  ', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Akeela', 1, false
+ '8+ Years', 'Collie Cross (Border)', 'Leeds', 'Male', true, false,,Crossbreed,,Gentle giant,,,,Living off site,,,,,Stranger friendly,,,Young at heart, false, 'Benji', 5, false
+ '0 to 6 Months', 'Terrier Cross', 'Evesham', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Benji', 1, true
+ '5 to 7 Years', 'Lurcher ', 'Snetterton', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Alannah', 1, false
+ '1 to 2 Years', 'Greyhound  ', 'Shrewsbury', 'Female', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Arrow', 5, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Loughborough', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Atlas', 5, false
+ '1 to 2 Years', 'Greyhound  ', 'Bridgend', 'Male', true, false,,,,,,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Asparagus', 2, false
+ '6 to 12 Months', 'Jack Russell Terrier (JRT)', 'Newbury', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, true, 'Bonnie', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Merseyside', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Bonnie', 5, false
+ '2 to 5 Years', 'Rottweiler ', 'Darlington', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Bobo', 5, true
+ '2 to 5 Years', 'Bulldog: English', 'Ilfracombe', 'Male', true, false,,,,,Has basic housetraining,,,,,,,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Bodhi', 4, false
+ '2 to 5 Years', 'Terrier: English Bull ', 'Ilfracombe', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Brayley', 2, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Merseyside', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,,,,Stranger friendly,,,, false, 'Chopper', 4, true
+ '5 to 7 Years', 'Chow Chow ', 'Darlington', 'Female', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,,,,,Stranger friendly,,,, true, 'Chichi', 3, true
+ '5 to 7 Years', 'A Crossbreed ', 'Leeds', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,,,,,,,, false, 'Cherry', 5, false
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Glasgow', 'Male', true, true,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,Young at heart, false, 'Diesel', 1, false
+ '2 to 5 Years', 'Greyhound  ', 'West Calder', 'Female', true, false,,,,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Aviva', 1, true
+ '2 to 5 Years', 'A Crossbreed ', 'Newbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Dexter', 5, true
+ '0 to 6 Months', 'Akita', 'Ballymena (N.Ireland)', 'Male', true, false,,Crossbreed,,Gentle giant,,,,,Especially likes cuddles,,Needs some training,,,,,, true, 'Deuce', 1, false
+ '2 to 5 Years', 'Lurcher ', 'Shrewsbury', 'Male', true, true,,Crossbreed,Dog friendly,Gentle giant,,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, false, 'Dennis', 5, false
+ '8+ Years', 'Poodle: Toy  ', 'Merseyside', 'Female', true, false,,,Dog friendly,,Has basic housetraining,,,Living off site,Especially likes cuddles,,,Small but sparky,Stranger friendly,,,Young at heart, true, 'Chelsea', 2, false
+ '8+ Years', 'Beagle  ', 'Loughborough', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,,, false, 'Crumpet', 2, true
+ '2 to 5 Years', 'Siberian Husky  ', 'London (Harefield)', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Bobby Husky', 2, false
+ '2 to 5 Years', 'Spaniel Cross', 'Kenilworth', 'Female', false, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Bonnie', 0, false
+ '1 to 2 Years', 'Bulldog: French', 'London (Harefield)', 'Female', false, false,Child friendly (under 12 yrs),,Dog friendly,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Crumble', 0, true
+ '2 to 5 Years', 'Siberian Husky  ', 'Basildon', 'Female', false, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Delores', 0, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Snetterton', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Cronos', 1, false
+ '8+ Years', 'Terrier Cross', 'Bridgend', 'Female', true, true,,Crossbreed,,,,,,,,,,Small but sparky,,,,, false, 'Deirdre', 1, true
+ '2 to 5 Years', 'A Crossbreed ', 'Ballymena (N.Ireland)', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,Small but sparky,,,,, false, 'Dee', 1, false
+ '1 to 2 Years', 'Collie Cross (Border)', 'Loughborough', 'Male', true, false,,,,,,,,,,,Needs some training,,,,,, true, 'Dec', 2, false
+ '2 to 5 Years', 'A Crossbreed ', 'Salisbury', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Chequers', 5, true
+ '5 to 7 Years', 'A Crossbreed ', 'Leeds', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,Living off site,,,,,,,,, true, 'Dave', 2, false
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,,,Needs some training,,,,,, false, 'Cassie', 5, true
+ '2 to 5 Years', 'Patterdale Terrier', 'Glasgow', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Benji', 5, false
+ '1 to 2 Years', 'Greyhound  ', 'Merseyside', 'Female', true, false,,,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Cassie', 4, false
+ '8+ Years', 'Border Collie ', 'Merseyside', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,Bright spark/very clever,,, true, 'Cassie', 2, true
+ '2 to 5 Years', 'Bulldog: French', 'Basildon', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Coco Chanel', 5, true
+ '8+ Years', 'Chihuahua: Short Hr', 'Basildon', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,,Small but sparky,,,Loves treats/will work for food,Young at heart, true, 'Coco', 5, false
+ '8+ Years', 'Mastiff: Old English  ', 'Bridgend', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Custard', 4, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Glasgow', 'Female', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Callie', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Manchester', 'Male', true, false,,Crossbreed,,,,,,,,,,,,,Loves treats/will work for food,, true, 'Caesar', 2, true
+ '5 to 7 Years', 'Lurcher ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Caddy', 3, false
+ '5 to 7 Years', 'Lurcher ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Dash', 5, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Snetterton', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Dash', 1, false
+ '5 to 7 Years', 'Lab Cross', 'Canterbury', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,Young at heart, true, 'Daniel', 3, false
+ '5 to 7 Years', 'Lurcher ', 'Merseyside', 'Female', true, true,,Crossbreed,,Gentle giant,Has basic housetraining,,Live wire,,Especially likes cuddles,,Needs some training,,,Bright spark/very clever,,, false, 'Dana', 4, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Shrewsbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, true, 'Chip', 5, false
+ '2 to 5 Years', 'Spaniel Cross', 'Newbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Dan', 5, true
+ '1 to 2 Years', 'Bulldog: English', 'Salisbury', 'Male', true, false,,,,,,,,,,,Needs some training,,,,,, false, 'Deacon', 2, false
+ '8+ Years', 'Rottweiler ', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Damson', 5, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'West Calder', 'Female', true, false,,Crossbreed,Dog friendly,,,,,Living off site,,,Needs some training,,Stranger friendly,Bright spark/very clever,,, true, 'Chelsea', 1, false
+ '2 to 5 Years', 'A Crossbreed ', 'London (Harefield)', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Chase', 5, false
+ '5 to 7 Years', 'Lab Cross', 'London (Harefield)', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Benji', 4, false
+ '5 to 7 Years', 'Lurcher ', 'Loughborough', 'Male', true, true,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Chase', 5, false
+ '1 to 2 Years', 'Border Collie ', 'Newbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Charlie', 5, false
+ '8+ Years', 'Pointer: German Wire Hr  ', 'Loughborough', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,,,,,,,, false, 'Cornflake', 4, false
+ '2 to 5 Years', 'Harrier', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Copper', 5, true
+ '2 to 5 Years', 'A Crossbreed ', 'Shoreham', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Cooper', 5, false
+ '2 to 5 Years', 'Harrier', 'Kenilworth', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Cooper', 5, false
+ '2 to 5 Years', 'Lab Cross', 'Newbury', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Cookie', 3, true
+ '2 to 5 Years', 'Lurcher ', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Connor', 5, false
+ '1 to 2 Years', 'Border Collie ', 'Newbury', 'Female', false, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Cody', 0, false
+ '5 to 7 Years', 'Rottweiler ', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Dan', 3, false
+ '5 to 7 Years', 'Border Collie ', 'Kenilworth', 'Male', true, true,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Charlie', 5, false
+ '5 to 7 Years', 'Beagle  ', 'Kenilworth', 'Male', true, false,,,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Charlie', 5, false
+ '1 to 2 Years', 'Lab Cross', 'Merseyside', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,,,,Stranger friendly,Bright spark/very clever,,, true, 'Dave', 2, true
+ '8+ Years', 'Greyhound  ', 'Kenilworth', 'Male', true, true,,,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Charlie', 5, false
+ '6 to 12 Months', 'Lab Cross', 'Basildon', 'Male', false, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, true, 'Casper', 0, true
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Shrewsbury', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Casper', 1, false
+ '2 to 5 Years', 'Greyhound  ', 'London (Harefield)', 'Male', true, false,,,Dog friendly,Gentle giant,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Casino', 4, false
+ '2 to 5 Years', 'A Crossbreed ', 'Manchester', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,Stranger friendly,,,, false, 'Charlie', 5, false
+ '2 to 5 Years', 'Lab Cross', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Carter', 5, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Carter', 5, false
+ '5 to 7 Years', 'Cocker Spaniel', 'West Calder', 'Female', true, false,,,,,Has basic housetraining,,Live wire,,,,,,,,Loves treats/will work for food,, false, 'Carly', 2, false
+ '5 to 7 Years', 'Staffordshire Cross (SBT)', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,,,,,,,Loves treats/will work for food,, true, 'Callie', 5, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Ilfracombe', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,,,Small but sparky,Stranger friendly,,,, false, 'Cadbury', 4, false
+ '6 to 12 Months', 'Staffordshire Cross (SBT)', 'Shrewsbury', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Coco', 5, false
+ '8+ Years', 'Dobermann  ', 'Loughborough', 'Female', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,,,,,,,,Young at heart, false, 'Coco', 3, false
+ '8+ Years', 'Bearded Collie', 'West Calder', 'Female', true, true,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,Bright spark/very clever,,, false, 'Coco', 5, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'London (Harefield)', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Coca', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Kenilworth', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Connie', 5, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Shoreham', 'Female', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Cleo', 4, true
+ '2 to 5 Years', 'Lurcher ', 'Newbury', 'Male', true, true,,,,,,,Live wire,Living off site,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Chutney', 5, false
+ '2 to 5 Years', 'Pug ', 'Leeds', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,,,,Small but sparky,,,Loves treats/will work for food,, true, 'Chumley', 4, false
+ '2 to 5 Years', 'A Crossbreed ', 'Shrewsbury', 'Female', true, false,,Crossbreed,,,,,,,,,,,,,,, true, 'Casey', 3, false
+ '1 to 2 Years', 'Staffordshire Bull Terrier (SBT)', 'Merseyside', 'Female', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Cabbage', 3, true
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, true,,Crossbreed,,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Butch', 4, false
+ '8+ Years', 'Parson Russell Terrier', 'Ballymena (N.Ireland)', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,Small but sparky,Stranger friendly,,,, false, 'Buster', 1, false
+ '1 to 2 Years', 'Staffordshire Bull Terrier (SBT)', 'Leeds', 'Male', false, false,,,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, true, 'Buster', 0, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'West Calder', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Callie', 4, false
+ '8+ Years', 'Border Collie ', 'Merseyside', 'Male', true, false,Child friendly (under 12 yrs),,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,,,, true, 'Buster', 3, true
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,,,Stranger friendly,,,Young at heart, false, 'Buster', 5, true
+ '6 to 12 Months', 'Border Collie ', 'Loughborough', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, true, 'Burrito', 5, false
+ '1 to 2 Years', 'Dachshund: Std Smooth Hr ', 'Canterbury', 'Female', false, false,,,,,,,,,,,Needs some training,Small but sparky,,,,, false, 'Bunny', 0, false
+ '2 to 5 Years', 'Lab Cross', 'Kenilworth', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Bumble', 5, true
+ '5 to 7 Years', 'Shar-Pei  ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,Medical needs,,,,Loves toys/games,,,,,,, true, 'Bugsy', 5, true
+ '5 to 7 Years', 'A Crossbreed ', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Budweiser', 3, false
+ '5 to 7 Years', 'Greyhound  ', 'Shoreham', 'Female', true, true,,,Dog friendly,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Cici', 4, true
+ '5 to 7 Years', 'A Crossbreed ', 'Shrewsbury', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Daisy', 5, false
+ '5 to 7 Years', 'Lurcher ', 'London (Harefield)', 'Female', false, false,,,Dog friendly,,,,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,Young at heart, true, 'Daisy', 0, false
+ '5 to 7 Years', 'Weimaraner', 'Loughborough', 'Female', true, false,,,Dog friendly,,Has basic housetraining,,,Living off site,,,,,,,,, true, 'Daisy', 2, false
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Bubba', 5, true
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Bridgend', 'Male', true, false,,Crossbreed,,,,,,,,,,,,,Loves treats/will work for food,Young at heart, true, 'Bullseye', 1, false
+ '8+ Years', 'Border Collie ', 'Merseyside', 'Female', true, false,,,Dog friendly,,Has basic housetraining,,,,,,,,Stranger friendly,,,Young at heart, false, 'Cleo', 4, false
+ '2 to 5 Years', 'Greyhound  ', 'Shoreham', 'Male', true, false,,,Dog friendly,Gentle giant,Has basic housetraining,,,,,,,,,,,, false, 'Dazzle', 4, false
+ '2 to 5 Years', 'Pug ', 'Kenilworth', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Damson', 5, false
+ '8+ Years', 'Patterdale Terrier', 'Snetterton', 'Female', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Daisy P', 5, false
+ '5 to 7 Years', 'Terrier Cross', 'Kenilworth', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Bruno', 5, false
+ '2 to 5 Years', 'Labrador', 'Salisbury', 'Male', true, false,,,Dog friendly,,,,,,,,,,Stranger friendly,,,, false, 'Bruno', 1, false
+ '8+ Years', 'A Crossbreed ', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, false, 'Bruce', 2, false
+ '5 to 7 Years', 'Dachshund: Min Long Hr', 'Basildon', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,,,,,,Small but sparky,,,Loves treats/will work for food,, false, 'Brandy', 5, false
+ '8+ Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,Has basic housetraining,,,Living off site,,Loves toys/games,,Small but sparky,,,,, false, 'Charlie', 5, false
+ '2 to 5 Years', 'Terrier Cross', 'Darlington', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,Small but sparky,,,,, false, 'Charlie', 5, false
+ '5 to 7 Years', 'A Crossbreed ', 'Salisbury', 'Female', true, false,,Crossbreed,,,,,,,,,,,Stranger friendly,,,, true, 'Charlie', 1, false
+ '2 to 5 Years', 'Lurcher ', 'Canterbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Bryn', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'London (Harefield)', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Cilla', 5, false
+ '8+ Years', 'Terrier: Yorkshire ', 'Merseyside', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,,Living off site,Especially likes cuddles,,,Small but sparky,Stranger friendly,,,Young at heart, true, 'Chardonnay', 2, false
+ '6 to 12 Months', 'Staffordshire Cross (SBT)', 'Shrewsbury', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Chanel', 5, false
+ '2 to 5 Years', 'Labrador', 'Kenilworth', 'Male', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Chase', 5, false
+ '2 to 5 Years', 'Lab Cross', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Cedric', 1, true
+ '2 to 5 Years', 'Harrier', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Buddy', 4, false
+ '1 to 2 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Manchester', 'Male', true, false,,,,,,,,,,,,,,,Loves treats/will work for food,, true, 'Buddy', 3, true
+ '2 to 5 Years', 'Dogue De Bordeaux', 'Evesham', 'Male', true, false,,,,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,,,,,,,, false, 'Bruno', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Shoreham', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Buddy', 5, false
+ '6 to 12 Months', 'Collie Cross (Border)', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,,,,,Living off site,,,Needs some training,,,,,, false, 'Brandon', 1, false
+ '5 to 7 Years', 'Akita', 'Kenilworth', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Buddy', 4, false
+ '1 to 2 Years', 'Harrier', 'Kenilworth', 'Male', true, false,,,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Buddy', 5, false
+ '1 to 2 Years', '', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Bubbles', 5, false
+ '0 to 6 Months', 'Jack Russell Terrier (JRT)', 'Bridgend', 'Male', true, false,,,,,,,Live wire,,Especially likes cuddles,Loves toys/games,,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, true, 'Bubba', 3, true
+ '2 to 5 Years', 'Border Collie ', 'Shrewsbury', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Bruce', 5, false
+ '5 to 7 Years', 'Terrier: Yorkshire ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Bruce', 3, false
+ '2 to 5 Years', 'Rottweiler ', 'Glasgow', 'Female', true, false,,,Dog friendly,,,Medical needs,Live wire,,Especially likes cuddles,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Britta', 2, false
+ '2 to 5 Years', 'Beagle  ', 'Kenilworth', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Briar', 5, false
+ '6 to 12 Months', 'Boxer  ', 'Evesham', 'Male', false, false,,,Dog friendly,Gentle giant,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Brian', 0, false
+ '2 to 5 Years', 'Greyhound  ', 'Kenilworth', 'Female', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Aoife', 3, false
+ '5 to 7 Years', 'Patterdale Terrier', 'West Calder', 'Male', true, true,,,,,Has basic housetraining,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Angus', 5, false
+ '1 to 2 Years', 'Border Collie ', 'Merseyside', 'Male', true, false,,,,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, true, 'Chad', 2, false
+ '5 to 7 Years', 'A Crossbreed ', 'Manchester', 'Male', true, true,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Bobby', 4, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Bridgend', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Bobby', 5, false
+ '2 to 5 Years', 'Lhasa Apso', 'Kenilworth', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,,, true, 'Bobbie', 4, false
+ '5 to 7 Years', 'Lurcher ', 'West Calder', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Blue', 5, false
+ '2 to 5 Years', 'Chihuahua: Long Hr ', 'Leeds', 'Male', true, false,,,,,,,Live wire,,,,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Buddy', 3, false
+ '2 to 5 Years', 'Bulldog: French', 'London (Harefield)', 'Female', false, false,,,Dog friendly,,,,,,Especially likes cuddles,Loves toys/games,,Small but sparky,Stranger friendly,,Loves treats/will work for food,, true, 'Apple', 0, true
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Leeds', 'Female', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Beth', 5, false
+ '1 to 2 Years', 'Collie: Smooth  ', 'Loughborough', 'Male', true, false,,,,,,,,,,,Needs some training,,,,,, true, 'Ant', 2, false
+ '6 to 12 Months', 'Terrier: Tibetan', 'Evesham', 'Male', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Bertie', 1, true
+ '2 to 5 Years', 'Border Collie ', 'London (Harefield)', 'Female', true, false,,,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Blue', 2, false
+ '8+ Years', 'A Crossbreed ', 'Loughborough', 'Female', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,,,,, false, 'Bertha', 4, true
+ '6 to 12 Months', 'German Shepherd Dog (GSD / Alsatian)', 'London (Harefield)', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Bentley', 1, false
+ '2 to 5 Years', 'A Crossbreed ', 'Shrewsbury', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,,,Stranger friendly,,,, true, 'Chance', 5, false
+ '1 to 2 Years', 'A Crossbreed ', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Benny', 1, true
+ '8+ Years', 'Lurcher ', 'Shoreham', 'Male', true, true,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Benny', 5, false
+ '2 to 5 Years', '', 'Ilfracombe', 'Male', true, true,,Crossbreed,Dog friendly,,,,,,,,,,,,Loves treats/will work for food,, false, 'Bruno', 5, false
+ '1 to 2 Years', 'Jack Russell Terrier (JRT)', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Bo Peep', 3, false
+ '5 to 7 Years', 'Boxer  ', 'Shoreham', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,,Young at heart, false, 'Boycee', 5, false
+ '5 to 7 Years', 'Siberian Husky  ', 'Salisbury', 'Male', true, false,,,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Bounty (And Ollie)', 1, false
+ '2 to 5 Years', 'Spaniel: English Springer', 'Bridgend', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Boris', 3, false
+ '2 to 5 Years', 'Terrier Cross', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Boris', 5, true
+ '5 to 7 Years', 'A Crossbreed ', 'West Calder', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Bertie', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Loughborough', 'Female', true, false,,,,,,,,,,,Needs some training,,,,,, true, 'Bonnie', 3, false
+ '2 to 5 Years', 'A Crossbreed ', 'Darlington', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Chance', 5, false
+ '6 to 12 Months', 'A Crossbreed ', 'Merseyside', 'Female', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, false, 'Blossom', 5, false
+ '5 to 7 Years', 'Lurcher ', 'West Calder', 'Male', true, false,,Crossbreed,,Gentle giant,,,,,,,Needs some training,,,,,, false, 'Blake', 4, false
+ '2 to 5 Years', 'Lurcher ', 'Newbury', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Blitz', 5, true
+ '2 to 5 Years', 'Lurcher ', 'Salisbury', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,Live wire,,,,,,Stranger friendly,,,, true, 'Boycey', 2, false
+ '6 to 12 Months', 'Harrier', 'Kenilworth', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Birch', 5, false
+ '2 to 5 Years', 'Harrier', 'Shrewsbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,,,Stranger friendly,,,, true, 'Bosco', 3, false
+ '5 to 7 Years', 'A Crossbreed ', 'Manchester', 'Male', true, true,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Benji', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Loughborough', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,Living off site,Especially likes cuddles,,,,,,,, false, 'Benji', 5, false
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Canterbury', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,,,,,,,Stranger friendly,,,, false, 'Benji', 3, false
+ '8+ Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,,Gentle giant,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Ben', 5, false
+ '2 to 5 Years', 'Akita', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Bear', 1, true
+ '8+ Years', 'Border Collie ', 'Merseyside', 'Male', true, false,,,,,Has basic housetraining,,,Living off site,Especially likes cuddles,,Needs some training,,,Bright spark/very clever,,Young at heart, false, 'Beano', 3, false
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Loughborough', 'Male', true, true,,,,,,,,Living off site,,Loves toys/games,,,,,,, false, 'Baxter', 2, false
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Kenilworth', 'Female', false, false,,,Dog friendly,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Angie', 0, false
+ '2 to 5 Years', 'Rottweiler ', 'Salisbury', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Angel', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Newbury', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, true, 'Blu', 4, false
+ '8+ Years', 'A Crossbreed ', 'Merseyside', 'Female', true, false,,Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, false, 'Amie', 5, true
+ '1 to 2 Years', 'Patterdale Terrier', 'Kenilworth', 'Female', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Allie', 5, true
+ '5 to 7 Years', 'Dogue De Bordeaux', 'London (Harefield)', 'Male', false, false,,,Dog friendly,Gentle giant,,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Benson', 0, false
+ '5 to 7 Years', 'Lurcher ', 'Shoreham', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Alice', 4, false
+ '2 to 5 Years', 'Boxer  ', 'Manchester', 'Male', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Alfie', 5, false
+ '5 to 7 Years', 'A Crossbreed ', 'West Calder', 'Male', true, true,,Crossbreed,,Gentle giant,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Binx', 5, false
+ '1 to 2 Years', 'Terrier: Lakeland  ', 'Leeds', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,,,, false, 'Arty', 3, false
+ '5 to 7 Years', 'Terrier: Yorkshire ', 'Shoreham', 'Male', true, false,,,,,Has basic housetraining,,Live wire,Living off site,,,Needs some training,Small but sparky,,Bright spark/very clever,,, true, 'Billy', 2, false
+ '1 to 2 Years', 'Staffordshire Cross (SBT)', 'West Calder', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,Living off site,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Billy', 1, false
+ '5 to 7 Years', 'American Bulldog', 'London (Harefield)', 'Male', true, false,,,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Billy', 2, false
+ '5 to 7 Years', 'Terrier Cross', 'Leeds', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,,,, false, 'Billy', 5, false
+ '5 to 7 Years', 'Greyhound  ', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),,,Gentle giant,Has basic housetraining,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Betsy', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Evesham', 'Male', true, false,,Crossbreed,,,Has basic housetraining,Medical needs,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Ben', 5, true
+ '5 to 7 Years', 'Chihuahua: Short Hr', 'Manchester', 'Male', true, false,,,,,,,,Living off site,,,,Small but sparky,,,,Young at heart, true, 'Ben', 2, false
+ '2 to 5 Years', 'Greyhound  ', 'West Calder', 'Male', true, false,,,,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Allen', 1, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,,Living off site,Especially likes cuddles,Loves toys/games,,Small but sparky,,,Loves treats/will work for food,, false, 'Bracken', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Kenilworth', 'Female', false, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Bella', 0, false
+ '2 to 5 Years', 'Labrador', 'Basildon', 'Female', false, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,Stranger friendly,,Loves treats/will work for food,, true, 'Bella', 0, false
+ '5 to 7 Years', 'Chihuahua: Short Hr', 'Leeds', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,Small but sparky,Stranger friendly,,,, true, 'Bella', 1, false
+ '5 to 7 Years', 'Lab Cross', 'Leeds', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Bracken', 5, false
+ '5 to 7 Years', 'A Crossbreed ', 'Manchester', 'Female', true, false,,Crossbreed,,,,,,Living off site,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Bella', 4, true
+ '5 to 7 Years', 'A Crossbreed ', 'Shoreham', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Arthur', 4, true
+ '5 to 7 Years', 'Terrier Cross', 'Evesham', 'Male', true, false,,Crossbreed,,,,,,,,,,Small but sparky,,,Loves treats/will work for food,, false, 'Basil', 5, false
+ '2 to 5 Years', 'Lurcher ', 'London (Harefield)', 'Male', false, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Barron', 0, true
+ '8+ Years', 'A Crossbreed ', 'Evesham', 'Male', false, true,,Crossbreed,,,,,,,Especially likes cuddles,,,,Stranger friendly,,Loves treats/will work for food,Young at heart, false, 'Barney', 0, false
+ '5 to 7 Years', '', 'Evesham', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Barney', 1, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Barney', 2, false
+ '2 to 5 Years', 'Lurcher ', 'Canterbury', 'Male', true, false,,,Dog friendly,,,,Live wire,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Barney', 3, true
+ '8+ Years', 'Patterdale Terrier', 'Ilfracombe', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, true, 'Belle', 3, true
+ '0 to 6 Months', 'Lab Cross', 'Evesham', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Barbara', 4, true
+ '0 to 6 Months', 'Terrier Cross', 'Ballymena (N.Ireland)', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Bane', 2, false
+ '5 to 7 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Bandit', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Canterbury', 'Female', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Bambi', 5, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Glasgow', 'Female', true, true,,,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Bella', 5, false
+ '1 to 2 Years', 'Bichon Frise ', 'Salisbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,,,,,,, true, 'Billy', 1, true
+ '2 to 5 Years', 'Lurcher ', 'Darlington', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Bee', 5, false
+ '2 to 5 Years', 'Greyhound  ', 'Loughborough', 'Male', true, false,,,,,,,,,,,Needs some training,,,,,, true, 'Becks', 3, false
+ '1 to 2 Years', 'Lurcher ', 'Shrewsbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,, false, 'Beau', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Merseyside', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, false, 'Barney', 5, false
+ '2 to 5 Years', 'American Bulldog', 'Bridgend', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,,,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Beau', 1, false
+ '1 to 2 Years', 'A Crossbreed ', 'Basildon', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Ariel', 5, true
+ '1 to 2 Years', 'Lab Cross', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,,, true, 'Archie', 5, true
+ '8+ Years', 'A Crossbreed ', 'Leeds', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,Living off site,,Loves toys/games,,,,,,Young at heart, true, 'Archie', 1, false
+ '2 to 5 Years', 'Cocker Spaniel', 'Evesham', 'Male', true, false,,,,,Has basic housetraining,,,,,,Needs some training,Small but sparky,,Bright spark/very clever,,, true, 'Archie', 1, true
+ '5 to 7 Years', 'Terrier: Cairn  ', 'Salisbury', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,Needs some training,Small but sparky,,,,, false, 'Archie', 3, true
+ '2 to 5 Years', 'Whippet', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Arabella', 5, true
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'West Calder', 'Male', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Alfie', 3, false
+ '1 to 2 Years', 'Beagle  ', 'Loughborough', 'Male', true, false,,,Dog friendly,,,,,,Especially likes cuddles,,,,Stranger friendly,Bright spark/very clever,,, false, 'Bailey', 2, false
+ '8+ Years', 'Lab Cross', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Bailey', 5, true
+ '2 to 5 Years', 'Harrier', 'Kenilworth', 'Male', true, true,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Bailey', 5, true
+ '2 to 5 Years', 'A Crossbreed ', 'London (Harefield)', 'Female', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Bailey', 5, false
+ '8+ Years', 'Border Collie ', 'West Calder', 'Male', true, true,,,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Bailey', 5, false
+ '5 to 7 Years', 'Lab Cross', 'Salisbury', 'Female', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Bella', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Ballymena (N.Ireland)', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,,, false, 'Badger', 3, false
+ '6 to 12 Months', 'Terrier: Yorkshire ', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,,,Loves treats/will work for food,, false, 'Beatrix', 2, true
+ '8+ Years', 'Spaniel: English Springer', 'Kenilworth', 'Male', true, false,,,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Beau', 5, false
+ '2 to 5 Years', 'Lab Cross', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Beatrix', 4, true
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Merseyside', 'Male', true, false,,,Dog friendly,Gentle giant,Has basic housetraining,,Live wire,,,,,,Stranger friendly,,,, true, 'Bear', 2, true
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Ilfracombe', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,Young at heart, true, 'Bear', 2, true
+ '2 to 5 Years', 'A Crossbreed ', 'Loughborough', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Adam', 5, false
+ '2 to 5 Years', 'Border Collie ', 'Darlington', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,,Needs some training,,,,Loves treats/will work for food,, false, 'Adam', 5, false
+ '8+ Years', 'Border Collie ', 'Newbury', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,Young at heart, true, 'Ace', 5, false
+ '0 to 6 Months', 'Akita', 'Shrewsbury', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Bear', 4, false
+ '2 to 5 Years', 'Lurcher ', 'Shoreham', 'Male', true, true,,Crossbreed,,,,Medical needs,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Ace', 5, false
+ '6 to 12 Months', 'Staffordshire Cross (SBT)', 'Newbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,,, true, 'Bailey', 5, true
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Manchester', 'Female', true, false,,,,,,,,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, true, 'Ebony', 3, false
+ '2 to 5 Years', 'Collie: Smooth  ', 'Shoreham', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Elizabeth', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Merseyside', 'Male', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Bailey', 5, false
+ '2 to 5 Years', 'Harrier', 'Salisbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Finn', 5, false
+ '5 to 7 Years', 'Border Collie ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Barney', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,,,,,,,, true, 'Flick', 5, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Female', true, false,,,,,Has basic housetraining,,,,,,Needs some training,,,,,, false, 'Flossy', 5, false
+ '8+ Years', 'Border Collie ', 'West Calder', 'Female', true, false,,,,,,,,,,,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, true, 'Floss', 3, false
+ '2 to 5 Years', 'Greyhound  ', 'Ilfracombe', 'Male', true, true,,,Dog friendly,Gentle giant,Has basic housetraining,,,,,,,,Stranger friendly,,,, false, 'Frankie', 2, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Loughborough', 'Male', true, true,,Crossbreed,Dog friendly,,,,,Living off site,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Frankie', 5, true
+ '1 to 2 Years', 'Staffordshire Cross (SBT)', 'Kenilworth', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Ginny', 4, false
+ '5 to 7 Years', 'Lurcher ', 'London (Harefield)', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Hazel', 1, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Evesham', 'Male', true, false,,,,,,,Live wire,Living off site,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, false, 'Dinky', 5, false
+ '1 to 2 Years', 'Lurcher ', 'Leeds', 'Female', true, true,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Hasley', 5, false
+ '5 to 7 Years', 'Terrier Cross', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,,, false, 'Harvey', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Ilfracombe', 'Male', true, true,,Crossbreed,,,,,,,,,,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Harvey', 2, false
+ '2 to 5 Years', 'Lurcher ', 'Basildon', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Harry', 5, true
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Shrewsbury', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Bella', 2, true
+ '8+ Years', 'Terrier: Lakeland  ', 'Newbury', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,Young at heart, false, 'Harry', 5, true
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Harry', 3, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Glasgow', 'Female', false, false,,Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Envy', 0, false
+ '2 to 5 Years', 'Siberian Husky  ', 'Leeds', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,,Needs some training,,Stranger friendly,,,, false, 'Harley', 5, false
+ '5 to 7 Years', 'Beagle  ', 'Salisbury', 'Female', true, false,,,,,,,,,,,Needs some training,,,,,, false, 'Harley', 3, false
+ '1 to 2 Years', 'Collie Cross (Border)', 'Canterbury', 'Male', false, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Harkin', 0, true
+ '2 to 5 Years', 'Beagle  ', 'Leeds', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,Live wire,,,,,,,,,, false, 'Hardy', 5, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Kenilworth', 'Female', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Hailey', 4, true
+ '2 to 5 Years', 'Spaniel: Clumber', 'Salisbury', 'Male', true, false,,Crossbreed,,,,Medical needs,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Harry', 1, false
+ '2 to 5 Years', 'Lurcher ', 'Basildon', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Greg', 5, false
+ '2 to 5 Years', 'Siberian Husky  ', 'Merseyside', 'Male', true, true,,,,,,,Live wire,,,,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Harper', 5, false
+ '5 to 7 Years', 'Schnauzer: Miniature  ', 'Snetterton', 'Female', true, false,,,Dog friendly,,,,,,Especially likes cuddles,,,,Stranger friendly,,Loves treats/will work for food,, true, 'Gracie', 3, true
+ '5 to 7 Years', 'Lurcher ', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,,,, false, 'Grainger', 5, false
+ '1 to 2 Years', 'Terrier Cross', 'Basildon', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, true, 'Gracie', 5, true
+ '2 to 5 Years', 'A Crossbreed ', 'Manchester', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,Living off site,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Georgie', 5, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Manchester', 'Female', true, false,,,Dog friendly,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,, true, 'Georgie', 3, false
+ '1 to 2 Years', 'Collie Cross (Border)', 'Ballymena (N.Ireland)', 'Male', true, true,,Crossbreed,,,Has basic housetraining,Medical needs,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Hank', 1, false
+ '1 to 2 Years', 'Rough Collie  ', 'Salisbury', 'Male', true, false,,,Dog friendly,,,,,,,,,,,,,, true, 'George', 1, true
+ '8+ Years', 'Border Collie ', 'Glasgow', 'Female', true, false,,,Dog friendly,,Has basic housetraining,,,,,Loves toys/games,,,,,,, false, 'Gem', 1, false
+ '2 to 5 Years', 'Lurcher ', 'Manchester', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,, true, 'Holly', 2, false
+ '8+ Years', 'Harrier', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Hagrid', 4, false
+ '8+ Years', 'Chihuahua: Short Hr', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Hoggy', 4, true
+ '2 to 5 Years', 'Leonberger', 'Shrewsbury', 'Male', true, false,,Crossbreed,,Gentle giant,,Medical needs,,,Especially likes cuddles,,,,,,Loves treats/will work for food,, false, 'Hagrid', 5, false
+ '5 to 7 Years', 'Terrier Cross', 'Newbury', 'Male', false, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Herb', 0, false
+ '2 to 5 Years', 'Lurcher ', 'Shoreham', 'Male', true, true,,Crossbreed,,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Harley', 5, false
+ '5 to 7 Years', 'Boxer  ', 'Ilfracombe', 'Male', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,Living off site,,Loves toys/games,,,,,,, true, 'Harley', 3, false
+ '2 to 5 Years', 'Shih Tzu  ', 'Manchester', 'Male', true, false,,,,,,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Henry', 2, false
+ '8+ Years', 'Cocker Spaniel', 'Canterbury', 'Male', true, false,,,Dog friendly,,,,,,,,,,Stranger friendly,,,, true, 'Henry', 3, true
+ '5 to 7 Years', 'Siberian Husky  ', 'Evesham', 'Female', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Heidi', 2, true
+ '5 to 7 Years', 'Lurcher ', 'Darlington', 'Male', true, true,,,,,Has basic housetraining,Medical needs,Live wire,Living off site,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, false, 'Hector', 5, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Ilfracombe', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,,,,,,, false, 'Fudge', 4, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Snetterton', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Gordon', 3, true
+ '5 to 7 Years', 'Border Collie ', 'Merseyside', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,Live wire,Living off site,,Loves toys/games,,,,,,, false, 'Fudge', 3, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'London (Harefield)', 'Female', true, true,,Crossbreed,,,,,Live wire,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,Young at heart, false, 'Freya', 3, false
+ '5 to 7 Years', 'Collie Cross (Border)', 'West Calder', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Holly', 5, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, false, 'Freddie', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Kenilworth', 'Male', false, false,Child friendly (under 12 yrs),Crossbreed,,,,,,,,,Needs some training,,,,,, true, 'Barney', 0, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Snetterton', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Freda', 1, true
+ '5 to 7 Years', 'Boxer  ', 'Kenilworth', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,,Living off site,Especially likes cuddles,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Henry', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Canterbury', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Frankie', 5, false
+ '2 to 5 Years', 'Lab Cross', 'Glasgow', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Gordon', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Snetterton', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Henry', 1, false
+ '2 to 5 Years', 'Border Collie ', 'Merseyside', 'Male', true, false,,,Dog friendly,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Glenn', 3, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Newbury', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Glen', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Glen', 5, false
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Snetterton', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Gizmo', 5, false
+ '5 to 7 Years', 'Pug ', 'Leeds', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,,,,Small but sparky,Stranger friendly,,,, true, 'Ginnie', 3, false
+ '6 to 12 Months', 'Terrier: Welsh  ', 'Ilfracombe', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Gigsy', 2, false
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Evesham', 'Male', true, false,,,,Gentle giant,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Ghost', 3, false
+ '2 to 5 Years', 'Greyhound  ', 'Kenilworth', 'Male', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Gerry', 4, false
+ '8+ Years', 'Terrier Cross', 'Kenilworth', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Frankie', 5, false
+ '2 to 5 Years', 'Boxer  ', 'Glasgow', 'Male', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Frankie', 3, false
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Frankie', 5, true
+ '2 to 5 Years', 'Beagle  ', 'Glasgow', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Frank', 5, true
+ '1 to 2 Years', 'Staffordshire Cross (SBT)', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Frank', 2, true
+ '0 to 6 Months', 'Bulldog: English', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, false, 'Frank', 3, false
+ '5 to 7 Years', 'Parson Russell Terrier', 'Newbury', 'Male', true, true,,,Dog friendly,,,,Live wire,,,Loves toys/games,,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, false, 'Forest Gump', 5, false
+ '2 to 5 Years', 'Patterdale Terrier', 'Merseyside', 'Male', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,Bright spark/very clever,,, false, 'Goldie', 4, false
+ '2 to 5 Years', 'Lab Cross', 'Salisbury', 'Male', false, false,,Crossbreed,,,,,,,,,Needs some training,,,,,, true, 'Foley', 0, true
+ '5 to 7 Years', 'Terrier Cross', 'Glasgow', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,Stranger friendly,,Loves treats/will work for food,, false, 'Hedgehog', 5, true
+ '5 to 7 Years', 'Collie Cross (Border)', 'Salisbury', 'Female', true, false,,Crossbreed,,,,,,,,,Needs some training,,,Bright spark/very clever,,, false, 'Florrie', 4, false
+ '5 to 7 Years', 'Greyhound  ', 'Basildon', 'Female', true, false,Child friendly (under 12 yrs),,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Florence', 5, false
+ '2 to 5 Years', 'Terrier: Bedlington', 'Leeds', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,Especially likes cuddles,,,,,,,, true, 'Florence', 2, false
+ '6 to 12 Months', 'A Crossbreed ', 'Loughborough', 'Female', true, false,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,,,, true, 'Fliss', 3, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Flinch', 3, true
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Evesham', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Flash', 5, true
+ '5 to 7 Years', 'Lab Cross', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Finn', 1, false
+ '5 to 7 Years', 'Staffordshire Cross (SBT)', 'Ilfracombe', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,,, false, 'Finn', 4, true
+ '2 to 5 Years', 'Border Collie ', 'West Calder', 'Male', true, true,,,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Finn', 5, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Figg', 4, true
+ '8+ Years', 'Lurcher ', 'Snetterton', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Faye', 2, false
+ '2 to 5 Years', 'Belgian Shepherd Dog: Laekenois (BSD)', 'Kenilworth', 'Female', true, false,,,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Fala', 5, false
+ '2 to 5 Years', 'Saluki ', 'Darlington', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Fabian', 5, false
+ '2 to 5 Years', 'Border Collie ', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Fonzie', 5, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Loughborough', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Flynn', 5, true
+ '2 to 5 Years', 'Greyhound  ', 'Ilfracombe', 'Female', true, true,,,Dog friendly,Gentle giant,Has basic housetraining,,,,,,Needs some training,,,,,, false, 'Gina', 3, false
+ '8+ Years', 'A Crossbreed ', 'Darlington', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,,Living off site,,,,,Stranger friendly,,,Young at heart, true, 'Evie', 3, false
+ '5 to 7 Years', 'Akita', 'Merseyside', 'Male', true, false,,Crossbreed,,Gentle giant,Has basic housetraining,,,,,,,,,,,, false, 'Enzo', 4, false
+ '2 to 5 Years', 'A Crossbreed ', 'London (Harefield)', 'Male', true, false,,Crossbreed,,,,Medical needs,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Enzo', 3, false
+ '2 to 5 Years', 'Greyhound  ', 'Evesham', 'Female', true, false,,,,,,,,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Freya', 3, false
+ '2 to 5 Years', 'Lurcher ', 'London (Harefield)', 'Female', false, false,,,Dog friendly,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Emma', 0, false
+ '2 to 5 Years', 'Terrier Cross', 'Newbury', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Emma', 4, false
+ '2 to 5 Years', 'Patterdale Terrier', 'Merseyside', 'Female', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Ember', 5, false
+ '1 to 2 Years', 'Lurcher ', 'Shoreham', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Faye', 3, false
+ '2 to 5 Years', 'Foxhound  ', 'Canterbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Elvis', 3, false
+ '6 to 12 Months', 'German Shepherd Dog (GSD / Alsatian)', 'Salisbury', 'Female', false, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,,Needs some training,,Stranger friendly,,,, true, 'Ella', 0, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Ballymena (N.Ireland)', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,Young at heart, false, 'Eric', 5, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Glasgow', 'Female', true, false,,Crossbreed,,,,Medical needs,,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,Young at heart, false, 'Eliza', 2, false
+ '2 to 5 Years', 'Foxhound  ', 'Snetterton', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Eddie', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Kenilworth', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Ebberdy', 5, true
+ '8+ Years', 'A Crossbreed ', 'Shoreham', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,,,,,,, false, 'Herbie', 5, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Loughborough', 'Female', true, true,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Elsa', 4, false
+ '2 to 5 Years', 'Lurcher ', 'Kenilworth', 'Male', false, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Duncan', 0, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Newbury', 'Female', true, false,,Crossbreed,,,,Medical needs,,Living off site,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,Young at heart, false, 'Ellie', 5, false
+ '2 to 5 Years', 'Dalmatian ', 'Shoreham', 'Male', true, true,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Duke', 5, false
+ '2 to 5 Years', 'Greyhound  ', 'Newbury', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,Gentle giant,,,,,,Loves toys/games,,,Stranger friendly,,,, false, 'Duke', 5, true
+ '2 to 5 Years', 'Lurcher ', 'Basildon', 'Female', false, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Duchess', 0, false
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Dub', 5, true
+ '1 to 2 Years', 'American Bulldog', 'Manchester', 'Male', true, false,,,,,,,,,Especially likes cuddles,,,,Stranger friendly,,Loves treats/will work for food,, true, 'Drago', 2, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Shoreham', 'Male', true, true,,,,,,Medical needs,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Dougie', 4, false
+ '8+ Years', 'Shih Tzu  ', 'Canterbury', 'Male', true, false,,,,,,,,Living off site,,,,,,,,Young at heart, true, 'Dougal', 3, false
+ '2 to 5 Years', 'Boxer  ', 'Leeds', 'Female', true, false,,,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,,,, false, 'Dottie', 3, false
+ '1 to 2 Years', 'Pomeranian', 'Basildon', 'Female', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,Small but sparky,Stranger friendly,,,, true, 'Doris', 5, true
+ '2 to 5 Years', 'Border Collie ', 'Kenilworth', 'Female', true, false,,,,,Has basic housetraining,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Echo', 5, false
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Canterbury', 'Male', true, false,,,,,,,,,,,Needs some training,,,Bright spark/very clever,,, false, 'Don', 2, true
+ '5 to 7 Years', 'Lurcher ', 'Darlington', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Domino', 5, false
+ '8+ Years', 'West Highland White Terrier  ', 'Snetterton', 'Female', true, false,,,Dog friendly,,,,,,,,,,,,Loves treats/will work for food,Young at heart, true, 'Dolly', 2, true
+ '5 to 7 Years', 'Lurcher ', 'London (Harefield)', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,, true, 'Dylis', 2, false
+ '2 to 5 Years', 'Greyhound  ', 'Leeds', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,Stranger friendly,,,, true, 'Dolly', 4, false
+ '8+ Years', 'Terrier Cross', 'Kenilworth', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,Young at heart, false, 'Dingo', 5, false
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Evesham', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Diesel', 1, false
+ '5 to 7 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Dumble', 4, true
+ '5 to 7 Years', '', 'Darlington', 'Male', true, true,,,Dog friendly,,,,,,Especially likes cuddles,,Needs some training,,,,Loves treats/will work for food,, false, 'Freddie', 5, false
+ '1 to 2 Years', 'Rottweiler ', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Diesel', 1, false
+ '1 to 2 Years', 'Siberian Husky  ', 'Shrewsbury', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Jackson', 5, false
+ '8+ Years', 'Lurcher ', 'Newbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,,,,,,Young at heart, true, 'Jip', 4, false
+ '2 to 5 Years', 'Rhodesian Ridgeback', 'Leeds', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Jim', 5, true
+ '2 to 5 Years', 'Lurcher ', 'London (Harefield)', 'Male', true, false,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Jet (Lurcher)', 5, false
+ '2 to 5 Years', 'Bulldog: English', 'Ilfracombe', 'Male', true, false,,,Dog friendly,,,,,,Especially likes cuddles,,,,,,Loves treats/will work for food,, true, 'Kayto', 1, true
+ '8+ Years', 'A Crossbreed ', 'Bridgend', 'Male', true, false,,Crossbreed,,,,,,,,,,,,,Loves treats/will work for food,, true, 'Kelvin', 2, false
+ '6 to 12 Months', 'Border Collie ', 'London (Harefield)', 'Female', false, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, true, 'Keira', 0, true
+ '1 to 2 Years', 'Terrier Cross', 'Glasgow', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Keeva', 5, false
+ '2 to 5 Years', 'Lab Cross', 'Canterbury', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Keano', 2, false
+ '5 to 7 Years', 'Terrier Cross', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Kodie', 5, false
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Newbury', 'Female', true, true,,Crossbreed,,Gentle giant,,,,,Especially likes cuddles,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,Young at heart, false, 'Leila', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Bridgend', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, false, 'Loki', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Canterbury', 'Female', true, false,,Crossbreed,,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Donna', 3, true
+ '2 to 5 Years', 'Terrier: Bedlington', 'Newbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,,,,,Loves treats/will work for food,, true, 'Maggie', 5, false
+ '1 to 2 Years', 'Collie Cross (Border)', 'Newbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Maggie', 5, false
+ '8+ Years', 'Spaniel: Cavalier King Charles', 'Ballymena (N.Ireland)', 'Female', true, false,,,Dog friendly,,,,,Living off site,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, true, 'Mae', 2, false
+ '5 to 7 Years', 'Terrier Cross', 'Leeds', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,,, false, 'Digger', 5, false
+ '1 to 2 Years', 'Border Collie ', 'Darlington', 'Male', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Mack', 5, false
+ '2 to 5 Years', 'Whippet', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Lupin', 5, true
+ '6 to 12 Months', 'A Crossbreed ', 'Evesham', 'Female', true, false,,,Dog friendly,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Luna', 4, true
+ '1 to 2 Years', 'Staffordshire Cross (SBT)', 'Merseyside', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,,, true, 'Luna', 3, false
+ '2 to 5 Years', 'Bulldog: French', 'Bridgend', 'Female', false, false,,,,,,,,,Especially likes cuddles,,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Lula', 0, true
+ '6 to 12 Months', 'A Crossbreed ', 'Manchester', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, true, 'Luna', 5, true
+ '6 to 12 Months', 'Border Collie ', 'Ballymena (N.Ireland)', 'Female', true, false,,,,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Maisie', 1, false
+ '2 to 5 Years', 'Poodle: Miniature  ', 'Basildon', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,Living off site,Especially likes cuddles,Loves toys/games,,,,,,, true, 'Louis', 5, true
+ '1 to 2 Years', 'Beagle  ', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, true, 'Lottie', 5, true
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Kenilworth', 'Female', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Lola', 5, true
+ '1 to 2 Years', 'Lab Cross', 'Ballymena (N.Ireland)', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, true, 'Lola', 2, false
+ '1 to 2 Years', 'Border Collie ', 'Glasgow', 'Female', true, true,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Luna', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Manchester', 'Female', true, true,,Crossbreed,,,,Medical needs,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Lola', 5, false
+ '6 to 12 Months', 'Mastiff: Bull', 'Merseyside', 'Female', true, false,,Crossbreed,Dog friendly,Gentle giant,,,Live wire,,,,Needs some training,,Stranger friendly,,,, false, 'Lola', 3, false
+ '2 to 5 Years', 'Greyhound  ', 'Glasgow', 'Male', true, true,,,,,Has basic housetraining,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Ernest', 5, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Glasgow', 'Female', false, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Lola', 0, false
+ '5 to 7 Years', 'Cocker Spaniel', 'Canterbury', 'Male', true, false,,,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Huxley', 1, true
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Loughborough', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,,, true, 'Louie', 2, false
+ '5 to 7 Years', 'A Crossbreed ', 'Snetterton', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Hugh', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Salisbury', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,Bright spark/very clever,,, true, 'Louie', 1, false
+ '2 to 5 Years', 'Terrier Cross', 'Canterbury', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,,,,Young at heart, false, 'Huggy Bear', 5, false
+ '5 to 7 Years', 'Akita', 'Shrewsbury', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,,,Needs some training,,Stranger friendly,,,, false, 'Huggie', 5, false
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Shoreham', 'Female', true, false,,,Dog friendly,,,,,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, true, 'Honey Bee', 5, true
+ '8+ Years', 'Shih Tzu  ', 'Kenilworth', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Holly', 3, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Basildon', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Holly', 5, false
+ '2 to 5 Years', 'Chihuahua: Short Hr', 'Snetterton', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Holly', 1, false
+ '5 to 7 Years', 'Lurcher ', 'West Calder', 'Female', true, true,,Crossbreed,,,,,,,,,Needs some training,,,,,, false, 'Lola', 5, false
+ '5 to 7 Years', 'Chihuahua: Short Hr', 'Basildon', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,,Small but sparky,,,Loves treats/will work for food,Young at heart, true, 'Lola', 5, false
+ '0 to 6 Months', 'Siberian Husky  ', 'Merseyside', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,Has basic housetraining,,Live wire,,,,Needs some training,,Stranger friendly,,,, true, 'Loki', 4, true
+ '6 to 12 Months', 'Saluki ', 'Darlington', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,Living off site,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, false, 'Luna', 5, true
+ '2 to 5 Years', 'Shar-Pei  ', 'Newbury', 'Male', true, true,,,,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Luigi', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Glasgow', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,Gentle giant,,,Live wire,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Luigi', 3, false
+ '8+ Years', '', 'Bridgend', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, false, 'Lucy', 5, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'West Calder', 'Female', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Lucy', 2, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Salisbury', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,,, false, 'Holmes', 4, false
+ '1 to 2 Years', 'Collie Cross (Border)', 'Basildon', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, true, 'Lucy', 5, false
+ '1 to 2 Years', 'Terrier Cross', 'Kenilworth', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Hunter', 5, true
+ '6 to 12 Months', 'Labrador', 'Basildon', 'Female', false, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Lucky', 0, false
+ '1 to 2 Years', 'Collie Cross (Border)', 'Salisbury', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Lucey Collie', 2, true
+ '2 to 5 Years', 'American Bulldog', 'Darlington', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,Medical needs,,Living off site,,Loves toys/games,,,,,,, false, 'Hooch', 3, true
+ '5 to 7 Years', 'Lurcher ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Loxley', 5, false
+ '2 to 5 Years', 'Spaniel: English Springer', 'Ilfracombe', 'Female', true, false,,,Dog friendly,,,,,Living off site,Especially likes cuddles,Loves toys/games,,,,,,, false, 'Maddie', 1, true
+ '5 to 7 Years', 'Collie Cross (Border)', 'Loughborough', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Logan', 5, false
+ '2 to 5 Years', 'Border Collie ', 'Bridgend', 'Female', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Lily', 1, true
+ '5 to 7 Years', 'A Crossbreed ', 'Shrewsbury', 'Female', true, true,,Crossbreed,,Gentle giant,,,,,Especially likes cuddles,,Needs some training,,,,Loves treats/will work for food,, false, 'Lilly', 4, false
+ '5 to 7 Years', 'Border Collie ', 'London (Harefield)', 'Female', false, false,,,Dog friendly,,,,,,Especially likes cuddles,,Needs some training,,,,Loves treats/will work for food,Young at heart, true, 'Lilly', 0, false
+ '8+ Years', 'German Shepherd Dog (GSD / Alsatian)', 'Loughborough', 'Female', true, false,,,,,Has basic housetraining,Medical needs,,,,,,,,,,Young at heart, false, 'Lexi', 4, true
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Darlington', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Lexi', 5, false
+ '2 to 5 Years', 'Siberian Husky  ', 'Kenilworth', 'Male', true, false,,,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Leon', 5, true
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Leo', 5, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Salisbury', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, false, 'Lenny', 5, true
+ '5 to 7 Years', 'Collie Cross (Border)', 'Bridgend', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Ernie', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Shoreham', 'Male', true, true,,Crossbreed,Dog friendly,Gentle giant,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Lenny', 5, false
+ '8+ Years', 'A Crossbreed ', 'Manchester', 'Male', true, false,,Crossbreed,,,,,,,,,,,,,,, true, 'Lee', 5, false
+ '2 to 5 Years', 'Border Collie ', 'Kenilworth', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Lassie', 5, true
+ '8+ Years', 'Pomeranian', 'Loughborough', 'Male', true, false,,,,,,,,,,,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Latte', 3, false
+ '5 to 7 Years', 'Lab Cross', 'Canterbury', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Lucky', 3, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Basildon', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Lassie', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Canterbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Lana', 5, false
+ '5 to 7 Years', 'Lab Cross', 'Merseyside', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,Especially likes cuddles,,,,,,Loves treats/will work for food,, true, 'Lainey', 3, true
+ '2 to 5 Years', 'A Crossbreed ', 'Merseyside', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Loki', 4, false
+ '2 to 5 Years', 'Lurcher ', 'Canterbury', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Lacey', 3, false
+ '2 to 5 Years', 'A Crossbreed ', 'Merseyside', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, true, 'Koffee', 4, false
+ '2 to 5 Years', 'American Bulldog', 'Leeds', 'Male', true, true,,,Dog friendly,,,,Live wire,,,,Needs some training,,Stranger friendly,,,, false, 'Koda', 5, false
+ '2 to 5 Years', 'Dobermann  ', 'Bridgend', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Kobe', 4, false
+ '8+ Years', 'Chihuahua: Long Hr ', 'West Calder', 'Female', true, false,,,,,Has basic housetraining,,,Living off site,,,Needs some training,Small but sparky,,,,, true, 'Kimberley Ann', 2, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Basildon', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Kiko', 5, false
+ '5 to 7 Years', 'A Crossbreed ', 'Merseyside', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,Bright spark/very clever,,, false, 'Kika', 3, true
+ '5 to 7 Years', 'Lurcher ', 'Evesham', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,,,,,,,,, true, 'Kiera', 1, false
+ '2 to 5 Years', 'A Crossbreed ', 'Merseyside', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,,Needs some training,,,,Loves treats/will work for food,, false, 'Kiea', 5, false
+ '5 to 7 Years', 'A Crossbreed ', 'Loughborough', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,,Needs some training,,,,,, false, 'Kiara', 4, false
+ '8+ Years', 'Border Collie ', 'Ballymena (N.Ireland)', 'Female', true, false,,,,,,,,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,Young at heart, false, 'Kezzie', 3, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Manchester', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,Live wire,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Kenzo', 3, true
+ '8+ Years', 'Terrier Cross', 'Bridgend', 'Male', true, false,,Crossbreed,,,,,,,,,,Small but sparky,,,,, false, 'Ken', 1, true
+ '2 to 5 Years', 'Terrier Cross', 'Salisbury', 'Male', true, false,,Crossbreed,,,,,,,,,,,Stranger friendly,,,, true, 'Keano', 1, false
+ '0 to 6 Months', 'Akita', 'Ballymena (N.Ireland)', 'Female', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,Needs some training,,,Bright spark/very clever,,, true, 'Love', 1, false
+ '0 to 6 Months', 'German Shepherd Dog (GSD / Alsatian)', 'Newbury', 'Female', false, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Kaya', 0, false
+ '2 to 5 Years', 'Dobermann  ', 'Glasgow', 'Female', false, false,,,,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, true, 'Kalie', 0, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Loughborough', 'Female', true, false,,,Dog friendly,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Lacie', 2, true
+ '8+ Years', 'Alaskan Malamute', 'Loughborough', 'Male', true, true,,,,,Has basic housetraining,,,,,,Needs some training,,,Bright spark/very clever,,, false, 'Kai', 5, true
+ '2 to 5 Years', 'Dogue De Bordeaux', 'Basildon', 'Female', true, false,,Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,,Living off site,,,,,,,,, true, 'Juno', 3, false
+ '8+ Years', 'A Crossbreed ', 'Manchester', 'Female', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Juniper', 5, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Basildon', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,,,Small but sparky,Stranger friendly,,,, true, 'June', 1, true
+ '8+ Years', 'Lurcher ', 'London (Harefield)', 'Female', true, false,,,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,Young at heart, false, 'June', 3, false
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Female', true, true,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Jumble', 4, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Shrewsbury', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,Has basic housetraining,Medical needs,,,,,,Small but sparky,Stranger friendly,,Loves treats/will work for food,, false, 'Julio', 3, false
+ '6 to 12 Months', 'Border Collie ', 'West Calder', 'Female', true, false,,,,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Josie', 4, true
+ '1 to 2 Years', 'Lab Cross', 'Merseyside', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Jonjo', 3, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Ballymena (N.Ireland)', 'Male', true, false,,Crossbreed,,,,Medical needs,,,,,Needs some training,,,,,, false, 'Johnny', 2, false
+ '2 to 5 Years', 'Lurcher ', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Joey', 3, false
+ '5 to 7 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Kale', 5, true
+ '2 to 5 Years', 'American Bulldog', 'Manchester', 'Male', false, false,,,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Junior', 0, false
+ '2 to 5 Years', 'Shar-Pei  ', 'Loughborough', 'Female', true, true,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Jody', 5, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Loughborough', 'Female', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,Needs some training,,,,Loves treats/will work for food,, false, 'Jess', 2, true
+ '2 to 5 Years', 'A Crossbreed ', 'West Calder', 'Female', true, true,Child friendly (under 12 yrs),Crossbreed,,,,,Live wire,Living off site,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Jess', 5, true
+ '1 to 2 Years', 'Beagle  ', 'Darlington', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Jerry', 3, true
+ '8+ Years', 'Collie Cross (Border)', 'Shrewsbury', 'Female', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,,,,, true, 'Jenny', 2, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Loughborough', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Layla', 5, false
+ '1 to 2 Years', 'A Crossbreed ', 'Manchester', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,,,Stranger friendly,,Loves treats/will work for food,, true, 'Jeff', 5, true
+ '5 to 7 Years', 'A Crossbreed ', 'Canterbury', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,,Small but sparky,,Bright spark/very clever,,Young at heart, true, 'Jd', 2, false
+ '2 to 5 Years', 'Greyhound  ', 'London (Harefield)', 'Male', true, false,,,Dog friendly,,,,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Jay', 2, false
+ '2 to 5 Years', 'Greyhound  ', 'Loughborough', 'Female', true, false,,,,,,,,,,,Needs some training,,,,,, true, 'Jayne', 3, false
+ '2 to 5 Years', 'Terrier: Maltese', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,Living off site,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, true, 'Joey', 5, true
+ '6 to 12 Months', 'A Crossbreed ', 'Shoreham', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,Living off site,,,,Small but sparky,,,,, true, 'Jax', 3, true
+ '2 to 5 Years', 'Lurcher ', 'Leeds', 'Male', true, true,,,Dog friendly,,Has basic housetraining,,,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Jasper', 5, false
+ '8+ Years', 'Border Collie ', 'Leeds', 'Male', true, true,,,,,Has basic housetraining,,,,Especially likes cuddles,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Jasper', 5, false
+ '5 to 7 Years', 'Pug ', 'Leeds', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,,,,Small but sparky,Stranger friendly,,Loves treats/will work for food,, true, 'Jasmine', 2, true
+ '2 to 5 Years', 'Lab Cross', 'Ballymena (N.Ireland)', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Joe', 4, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Leeds', 'Female', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,,, false, 'Jess', 5, true
+ '2 to 5 Years', 'Lurcher ', 'Manchester', 'Female', true, false,,,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Lucy', 1, false
+ '1 to 2 Years', 'A Crossbreed ', 'Bridgend', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Jakey', 5, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Jake', 5, false
+ '5 to 7 Years', 'American Bulldog', 'Loughborough', 'Male', true, true,,Crossbreed,,Gentle giant,,,,,Especially likes cuddles,,Needs some training,,,,Loves treats/will work for food,, false, 'Jake', 5, false
+ '2 to 5 Years', 'Terrier Cross', 'Evesham', 'Male', true, false,,Crossbreed,,,,,Live wire,Living off site,,,Needs some training,,,,Loves treats/will work for food,, false, 'Jake', 5, true
+ '8+ Years', 'Terrier Cross', 'Manchester', 'Female', true, false,,Crossbreed,,,,,,Living off site,,,,,,,,Young at heart, false, 'Lady', 4, false
+ '2 to 5 Years', 'Border Collie ', 'Kenilworth', 'Male', true, false,,,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Jackson', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Canterbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Jackie', 4, false
+ '1 to 2 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Shrewsbury', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, false, 'Izzy', 3, false
+ '2 to 5 Years', 'Shar-Pei  ', 'Bridgend', 'Female', true, false,,,,,Has basic housetraining,,,,,,,,,,Loves treats/will work for food,, true, 'Izzabella Bear', 2, false
+ '2 to 5 Years', 'Dobermann  ', 'Snetterton', 'Female', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Isla', 2, false
+ '2 to 5 Years', 'Border Collie ', 'Kenilworth', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Inky', 4, false
+ '5 to 7 Years', 'Border Collie ', 'Merseyside', 'Female', true, false,,,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Indy', 3, false
+ '2 to 5 Years', 'Lurcher ', 'Darlington', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Indie', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Glasgow', 'Female', true, false,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,, false, 'Indie', 3, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Ice Cream', 5, true
+ '1 to 2 Years', 'A Crossbreed ', 'Newbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, false, 'Holly', 5, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Manchester', 'Female', false, false,,,Dog friendly,,,,,,,Loves toys/games,,,Stranger friendly,,,, true, 'Marley', 0, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Salisbury', 'Male', true, false,,,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Marvel', 2, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Bridgend', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Mickey Mouse', 5, true
+ '8+ Years', 'A Crossbreed ', 'Merseyside', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Misty', 3, false
+ '2 to 5 Years', 'Bulldog: French', 'Bridgend', 'Female', false, false,,,,,,,,,Especially likes cuddles,,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Jane', 0, true
+ '8+ Years', 'Akita', 'West Calder', 'Female', true, true,,Crossbreed,,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, false, 'Nancy', 2, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Snetterton', 'Female', true, false,,Crossbreed,,,,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Ivy', 1, false
+ '0 to 6 Months', 'A Crossbreed ', 'West Calder', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,Small but sparky,,,,, true, 'Nala', 1, true
+ '2 to 5 Years', 'Greyhound  ', 'Newbury', 'Male', true, false,,,,,,,,,,,,,,Bright spark/very clever,,, true, 'James', 5, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Loughborough', 'Male', true, false,,,,,,,,,,Loves toys/games,,,,,,, false, 'Patch', 3, true
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'West Calder', 'Male', true, false,,,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,Small but sparky,,,,, true, 'Patch', 1, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Basildon', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,Stranger friendly,,Loves treats/will work for food,Young at heart, true, 'Patch', 5, false
+ '8+ Years', 'Border Collie ', 'Canterbury', 'Male', true, false,,,Dog friendly,Gentle giant,,,,,,,,,,,Loves treats/will work for food,Young at heart, true, 'Patch', 2, true
+ '2 to 5 Years', 'Terrier: Yorkshire ', 'Glasgow', 'Female', false, false,,,,,,Medical needs,,,,Loves toys/games,,Small but sparky,,,,, true, 'Margaret', 0, false
+ '5 to 7 Years', 'Greyhound  ', 'Newbury', 'Female', true, false,Child friendly (under 12 yrs),,,,,,,,,,Needs some training,,,,,, true, 'Pippa', 5, false
+ '8+ Years', 'A Crossbreed ', 'Leeds', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Pip', 1, true
+ '2 to 5 Years', 'Siberian Husky  ', 'Glasgow', 'Female', false, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,,,, true, 'Phoenix', 0, true
+ '5 to 7 Years', 'Staffordshire Cross (SBT)', 'Loughborough', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,,,,,,, false, 'Phil', 5, false
+ '2 to 5 Years', 'Boxer  ', 'Loughborough', 'Male', true, true,,Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,,, false, 'Milo', 5, true
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'West Calder', 'Male', true, true,,,,,Has basic housetraining,,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Perry', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'West Calder', 'Male', true, false,,Crossbreed,,,,,Live wire,,Especially likes cuddles,,,,Stranger friendly,,Loves treats/will work for food,, true, 'Percy', 1, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Salisbury', 'Female', true, false,,,,,,,,,,,,,,,,, true, 'Molly', 1, false
+ '5 to 7 Years', 'Chihuahua: Short Hr', 'Salisbury', 'Female', true, false,,,,,,,,,,,Needs some training,,,Bright spark/very clever,,, true, 'Penelope', 1, false
+ '8+ Years', '', 'Newbury', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,Stranger friendly,Bright spark/very clever,,, true, 'Peggy', 5, false
+ '2 to 5 Years', 'Beagle  ', 'Ballymena (N.Ireland)', 'Female', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,,, false, 'Peaches', 1, false
+ '8+ Years', 'Collie Cross (Border)', 'Salisbury', 'Male', true, false,,Crossbreed,,Gentle giant,,,,,Especially likes cuddles,,,,Stranger friendly,,,Young at heart, true, 'Ollie (And Bounty)', 1, false
+ '6 to 12 Months', 'Collie Cross (Border)', 'Loughborough', 'Female', true, false,,Crossbreed,,,,,,,,,Needs some training,,,Bright spark/very clever,,, true, 'Jalapeno', 2, true
+ '1 to 2 Years', 'Bulldog: English', 'Merseyside', 'Male', true, false,,,,,,Medical needs,Live wire,,,Loves toys/games,Needs some training,,,,,, true, 'Patch', 3, true
+ '0 to 6 Months', 'Bichon Frise ', 'Bridgend', 'Female', true, false,,,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Papaya', 1, false
+ '1 to 2 Years', 'A Crossbreed ', 'Salisbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Panda', 2, false
+ '8+ Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Paddy', 5, false
+ '2 to 5 Years', 'Labrador', 'West Calder', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,Has basic housetraining,,Live wire,Living off site,Especially likes cuddles,,Needs some training,,,,,, true, 'Pablo', 1, true
+ '1 to 2 Years', 'Lurcher ', 'Evesham', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Ozzie', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Basildon', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Otis', 5, true
+ '2 to 5 Years', 'Terrier: Bedlington', 'Snetterton', 'Male', false, false,,,Dog friendly,,,,,,,Loves toys/games,,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, true, 'Otis', 0, false
+ '2 to 5 Years', 'Terrier: Yorkshire ', 'Merseyside', 'Male', true, false,,,,,,,Live wire,,,,Needs some training,Small but sparky,,,,, false, 'Pip', 4, false
+ '2 to 5 Years', 'Terrier: Border ', 'Shoreham', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, true, 'Otis', 5, true
+ '8+ Years', 'West Highland White Terrier  ', 'Merseyside', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,,Young at heart, true, 'Oscar', 2, true
+ '5 to 7 Years', 'Bichon Frise ', 'Leeds', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,Live wire,,,,Needs some training,,,,,, false, 'Oscar', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Leeds', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,,,, false, 'Oscar', 5, false
+ '2 to 5 Years', 'Pug ', 'Bridgend', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,,,Loves treats/will work for food,, false, 'Ollie', 1, false
+ '8+ Years', 'A Crossbreed ', 'Glasgow', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,Young at heart, false, 'Ollie', 4, false
+ '8+ Years', 'Lurcher ', 'Kenilworth', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,Living off site,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Olivia', 5, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Loughborough', 'Female', true, false,,,,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Penny', 3, true
+ '8+ Years', 'Collie Cross (Border)', 'Manchester', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,Young at heart, false, 'Oliver', 4, false
+ '5 to 7 Years', 'Lurcher ', 'Kenilworth', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Oliver', 5, false
+ '5 to 7 Years', 'Lab Cross', 'Canterbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,,Living off site,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Olive', 5, true
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,,Small but sparky,,,Loves treats/will work for food,, true, 'Olaf', 5, false
+ '6 to 12 Months', 'Belgian Shepherd Dog: Malinois (BSD)', 'Kenilworth', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Ocean', 5, false
+ '8+ Years', 'Collie Cross (Border)', 'Manchester', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,Young at heart, true, 'Norman', 2, false
+ '1 to 2 Years', 'A Crossbreed ', 'Manchester', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Noah', 5, false
+ '0 to 6 Months', 'Collie Cross (Border)', 'Loughborough', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,,, true, 'Oti', 2, true
+ '5 to 7 Years', '', 'Darlington', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,,, false, 'Nina', 5, false
+ '5 to 7 Years', 'Collie Cross (Border)', 'Salisbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Oreo', 1, false
+ '1 to 2 Years', 'A Crossbreed ', 'Ilfracombe', 'Female', true, true,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Nim', 5, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Shrewsbury', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,,,Has basic housetraining,,,Living off site,Especially likes cuddles,,,,Stranger friendly,,,, false, 'Nina', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,,,,,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Percy', 2, false
+ '2 to 5 Years', 'Border Collie ', 'Ilfracombe', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,,,,,,, false, 'Nim', 2, false
+ '1 to 2 Years', 'Siberian Husky  ', 'Snetterton', 'Female', true, false,Child friendly (under 12 yrs),,,,,,Live wire,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Jan', 3, true
+ '5 to 7 Years', 'Lurcher ', 'Shoreham', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,,,,,,,Loves treats/will work for food,, false, 'Niki', 4, false
+ '6 to 12 Months', 'A Crossbreed ', 'Salisbury', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,Living off site,,Loves toys/games,,,Stranger friendly,Bright spark/very clever,,, true, 'Patch', 1, true
+ '1 to 2 Years', 'Bulldog: French', 'Newbury', 'Female', true, false,,Crossbreed,,,,,Live wire,Living off site,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Olive', 5, false
+ '8+ Years', 'Border Collie ', 'Glasgow', 'Female', true, false,,,Dog friendly,,Has basic housetraining,,,,,Loves toys/games,,,,,Loves treats/will work for food,Young at heart, false, 'Nell', 1, false
+ '2 to 5 Years', 'Dachshund: Std Smooth Hr ', 'Basildon', 'Female', true, false,,,,,,,,Living off site,,,Needs some training,Small but sparky,,,,, false, 'Nell', 5, false
+ '8+ Years', 'A Crossbreed ', 'Kenilworth', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Nelly', 4, false
+ '5 to 7 Years', 'A Crossbreed ', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Nb', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Snetterton', 'Male', true, false,,,Dog friendly,,,,Live wire,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Navy', 2, true
+ '8+ Years', 'Siberian Husky  ', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,,Loves toys/games,Needs some training,,,,,, false, 'Nanuk', 5, true
+ '8+ Years', 'A Crossbreed ', 'Merseyside', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,Living off site,Especially likes cuddles,,,,Stranger friendly,Bright spark/very clever,,, true, 'Nala', 2, true
+ '6 to 12 Months', 'Border Collie ', 'Loughborough', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, true, 'Nacho', 5, false
+ '2 to 5 Years', 'Terrier Cross', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Newt', 5, true
+ '5 to 7 Years', 'Lab Cross', 'Loughborough', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Nemo', 4, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'Shrewsbury', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,Stranger friendly,,,, false, 'Nacho', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Glasgow', 'Male', true, true,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,Stranger friendly,,,, false, 'Mylo', 5, false
+ '5 to 7 Years', 'Collie Cross (Border)', 'Evesham', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Mylo', 5, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,,,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,,, true, 'Oggie', 5, true
+ '5 to 7 Years', 'A Crossbreed ', 'London (Harefield)', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,Living off site,,,,Small but sparky,,,Loves treats/will work for food,, false, 'Mya', 3, false
+ '5 to 7 Years', 'Bichon Frise ', 'Kenilworth', 'Male', true, false,,,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Murphy', 5, true
+ '1 to 2 Years', 'Border Collie ', 'Loughborough', 'Male', true, false,,,,,,,,,,,,,,,,, false, 'Murphy', 2, false
+ '8+ Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Murphy', 5, false
+ '2 to 5 Years', 'Greyhound  ', 'Salisbury', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, false, 'Ned', 2, false
+ '5 to 7 Years', 'A Crossbreed ', 'Loughborough', 'Female', true, true,,Crossbreed,,Gentle giant,,,,,,,,,,,,, false, 'Muffin', 5, false
+ '8+ Years', 'GSD Cross ( German Shepherd / Alsatian)', 'Newbury', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,,,,,Bright spark/very clever,,Young at heart, false, 'Narla', 5, false
+ '5 to 7 Years', 'Staffordshire Cross (SBT)', 'Canterbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Nanook', 2, false
+ '5 to 7 Years', 'Dutch Shepherd', 'Evesham', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,Living off site,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Nadia', 4, false
+ '5 to 7 Years', 'Lurcher ', 'West Calder', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Monty', 5, false
+ '5 to 7 Years', 'Patterdale Terrier', 'Kenilworth', 'Male', true, true,,,,,Has basic housetraining,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Monty', 5, false
+ '1 to 2 Years', 'Lurcher ', 'Kenilworth', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Museli', 5, false
+ '5 to 7 Years', 'A Crossbreed ', 'Shrewsbury', 'Male', true, true,,Crossbreed,,,,,,,,,,,,,,, false, 'Monty', 5, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Basildon', 'Female', true, false,,Crossbreed,,,Has basic housetraining,Medical needs,,,,Loves toys/games,,,,,,, false, 'Molly', 5, false
+ '5 to 7 Years', 'Staffordshire Cross (SBT)', 'London (Harefield)', 'Female', true, true,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Munchkin', 5, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Evesham', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Molly', 1, true
+ '2 to 5 Years', 'Border Collie ', 'Evesham', 'Male', true, false,,,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Moss', 3, true
+ '1 to 2 Years', 'A Crossbreed ', 'Manchester', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Moki', 4, false
+ '2 to 5 Years', 'Japanese Akita Inu', 'Bridgend', 'Male', true, false,,,,,,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Mojito', 2, true
+ '1 to 2 Years', 'Border Collie ', 'Kenilworth', 'Female', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Moana', 5, false
+ '1 to 2 Years', 'American Bulldog', 'Kenilworth', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Mosley', 5, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Kenilworth', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Mo', 5, false
+ '8+ Years', 'Cocker Spaniel', 'Evesham', 'Female', true, false,,,,,Has basic housetraining,Medical needs,,,,,,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,Young at heart, true, 'Mo', 1, true
+ '8+ Years', 'Rottweiler ', 'Loughborough', 'Female', true, true,,Crossbreed,,Gentle giant,,,,,,,Needs some training,,,,,, false, 'Mitzy', 4, false
+ '8+ Years', 'Patterdale Terrier', 'West Calder', 'Female', true, false,Child friendly (under 12 yrs),,,,Has basic housetraining,,,,Especially likes cuddles,,,,,,Loves treats/will work for food,Young at heart, true, 'Mitzi', 2, false
+ '2 to 5 Years', 'A Crossbreed ', 'Manchester', 'Male', true, true,,Crossbreed,,,,,,,,Loves toys/games,,,,,,, false, 'Mylo', 5, false
+ '6 to 12 Months', 'Jack Russell Terrier (JRT)', 'Leeds', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,,,,Loves toys/games,,Small but sparky,,,,, true, 'Mister', 3, true
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Bridgend', 'Female', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Missy', 1, true
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Leeds', 'Female', true, false,,Crossbreed,,,,,,Living off site,,,,,Stranger friendly,,,Young at heart, true, 'Missy', 4, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Female', true, false,,,,,,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Minnie', 4, true
+ '2 to 5 Years', 'Chihuahua: Short Hr', 'Salisbury', 'Female', true, false,,,,,,,,,,,Needs some training,,,Bright spark/very clever,,, true, 'Minnie', 1, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Leeds', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Mim', 2, false
+ '2 to 5 Years', 'A Crossbreed ', 'Shrewsbury', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,Stranger friendly,,,, true, 'Molly', 3, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Manchester', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,Stranger friendly,,,, false, 'Milo', 5, false
+ '2 to 5 Years', 'Terrier Cross', 'Snetterton', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Milo', 3, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'London (Harefield)', 'Female', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,Young at heart, false, 'Mollie', 1, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Merseyside', 'Male', true, false,,Crossbreed,,Gentle giant,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Milo', 5, false
+ '2 to 5 Years', 'Border Collie ', 'Ballymena (N.Ireland)', 'Female', true, true,,,Dog friendly,,Has basic housetraining,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Millie', 3, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'London (Harefield)', 'Female', true, false,,,Dog friendly,,,,,Living off site,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Millie', 3, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'West Calder', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,,,,,,Loves treats/will work for food,, false, 'Millie', 2, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Salisbury', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Morse', 1, true
+ '1 to 2 Years', 'Chihuahua: Long Hr ', 'Salisbury', 'Male', true, false,,,,,,,,,,,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Mikey', 2, true
+ '5 to 7 Years', '', 'London (Harefield)', 'Male', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,,,, false, 'Mikey', 3, true
+ '5 to 7 Years', 'Spaniel: English Springer', 'Ilfracombe', 'Male', true, false,,Crossbreed,,,,,Live wire,,Especially likes cuddles,,,,,,,, true, 'Mitch', 1, true
+ '8+ Years', 'Lab Cross', 'Salisbury', 'Male', true, true,,Crossbreed,,Gentle giant,,,,,,,Needs some training,,,,,, false, 'Mike', 4, false
+ '5 to 7 Years', 'Collie Cross (Border)', 'London (Harefield)', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,,,Stranger friendly,,,Young at heart, true, 'Mika', 1, false
+ '5 to 7 Years', 'Samoyed', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Mini', 4, true
+ '2 to 5 Years', 'Greyhound  ', 'Evesham', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Mickey', 5, false
+ '8+ Years', 'A Crossbreed ', 'Shrewsbury', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,,,Loves treats/will work for food,, true, 'Milo', 4, false
+ '1 to 2 Years', 'Saluki ', 'Glasgow', 'Male', true, true,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,,, false, 'Merlin', 3, true
+ '8+ Years', 'Siberian Husky  ', 'Evesham', 'Female', true, false,,,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Mia', 1, false
+ '2 to 5 Years', 'Terrier Cross', 'Evesham', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Maximus', 5, true
+ '2 to 5 Years', 'Pomeranian', 'Bridgend', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,,, false, 'Maxi Munchkin', 2, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'Snetterton', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,,Small but sparky,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, true, 'Max T', 3, true
+ '1 to 2 Years', 'Lurcher ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Millar', 5, true
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Miley', 5, true
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Ilfracombe', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,Small but sparky,,,,Young at heart, true, 'Max', 5, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Newbury', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Mike', 5, true
+ '8+ Years', 'German Shepherd Dog (GSD / Alsatian)', 'Shrewsbury', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,Young at heart, true, 'Mika', 1, false
+ '2 to 5 Years', 'Bichon Frise ', 'Merseyside', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,Live wire,,,,,Small but sparky,Stranger friendly,,,, true, 'Max', 2, false
+ '8+ Years', 'A Crossbreed ', 'Shoreham', 'Male', true, true,,Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Max', 5, false
+ '5 to 7 Years', 'Spitz: Japanese ', 'Basildon', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Max', 5, true
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Female', true, false,,,,,,,,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Maude', 4, false
+ '0 to 6 Months', 'Akita', 'Ballymena (N.Ireland)', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,,Needs some training,,,,,, true, 'Match', 1, true
+ '0 to 6 Months', 'Lurcher ', 'Bridgend', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,,,,,Loves treats/will work for food,, true, 'Marvel', 1, true
+ '1 to 2 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Snetterton', 'Female', false, false,,,Dog friendly,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Maru', 0, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Shoreham', 'Male', true, true,,,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Marty', 5, false
+ '8+ Years', 'Terrier: Yorkshire ', 'Salisbury', 'Male', true, false,,Crossbreed,,,Has basic housetraining,Medical needs,Live wire,,,,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Marty', 3, false
+ '2 to 5 Years', 'Akita', 'Basildon', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,Living off site,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Marlie', 5, false
+ '2 to 5 Years', 'Bichon Frise ', 'Merseyside', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,Live wire,,,,,Small but sparky,Stranger friendly,,,, true, 'Marley', 2, false
+ '5 to 7 Years', 'Terrier Cross', 'Darlington', 'Male', true, true,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,Small but sparky,Stranger friendly,,,, false, 'Marley', 5, false
+ '8+ Years', 'Lurcher ', 'London (Harefield)', 'Male', true, false,,,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,Young at heart, false, 'Max (Lurcher)', 3, false
+ '2 to 5 Years', 'Lurcher ', 'Merseyside', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Max', 5, true
+ '6 to 12 Months', 'Belgian Shepherd Dog: Malinois (BSD)', 'Kenilworth', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Max', 5, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Leeds', 'Male', true, false,,,,,Has basic housetraining,,Live wire,,,,,,,,,, false, 'Marley', 2, true
+ '8+ Years', 'Poodle: Miniature  ', 'London (Harefield)', 'Female', false, false,,,,,,Medical needs,,Living off site,,,,Small but sparky,,,Loves treats/will work for food,Young at heart, false, 'Margo', 0, false
+ '2 to 5 Years', 'Japanese Akita Inu', 'Bridgend', 'Male', true, false,,,,,,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Malakai', 2, true
+ '5 to 7 Years', 'Pug ', 'Leeds', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,,,,,,,Stranger friendly,,,, true, 'Memphis', 1, false
+ '1 to 2 Years', 'Lurcher ', 'Ilfracombe', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,Living off site,,Loves toys/games,,,Stranger friendly,,,, false, 'Malakai', 1, true
+ '8+ Years', 'Labrador', 'Basildon', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Max', 5, false
+ '8+ Years', 'A Crossbreed ', 'Bridgend', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,,,,,Loves treats/will work for food,, false, 'Mambo', 5, false
+ '8+ Years', 'Lurcher ', 'Darlington', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,Young at heart, false, 'Maisie', 5, false
+ '8+ Years', 'Shih Tzu  ', 'Manchester', 'Female', true, false,,,,,,,,Living off site,,Loves toys/games,Needs some training,Small but sparky,,,,, false, 'Poppy', 5, true
+ '2 to 5 Years', 'Pug ', 'Basildon', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Princess Peach', 5, true
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Salisbury', 'Male', true, true,,,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Rocco', 5, false
+ '2 to 5 Years', 'Foxhound  ', 'Snetterton', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Rocco', 4, false
+ '2 to 5 Years', 'Greyhound  ', 'Basildon', 'Male', true, false,Child friendly (under 12 yrs),,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Moose', 5, false
+ '2 to 5 Years', 'Pug ', 'Ilfracombe', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,Living off site,Especially likes cuddles,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Roxy', 2, true
+ '8+ Years', 'Collie Cross (Border)', 'Ballymena (N.Ireland)', 'Female', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,,,,, false, 'Sally', 1, false
+ '1 to 2 Years', 'A Crossbreed ', 'Newbury', 'Male', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,Bright spark/very clever,,, false, 'Sam', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Glasgow', 'Male', false, false,Child friendly (under 12 yrs),Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,Stranger friendly,,,Young at heart, true, 'Scout', 0, false
+ '1 to 2 Years', 'Lurcher ', 'Glasgow', 'Male', false, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,,Needs some training,,Stranger friendly,,,, true, 'Scooby', 0, false
+ '1 to 2 Years', 'Border Collie ', 'London (Harefield)', 'Female', false, false,,,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Skye Collie', 0, false
+ '0 to 6 Months', 'Lurcher ', 'London (Harefield)', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, true, 'Sky Lurcher', 2, true
+ '0 to 6 Months', 'Deerhound ', 'Leeds', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,Stranger friendly,,,, true, 'Star', 3, false
+ '2 to 5 Years', 'Lurcher ', 'Glasgow', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Sprite', 5, false
+ '8+ Years', 'Lab Cross', 'Snetterton', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,Living off site,,,,,Stranger friendly,,,Young at heart, false, 'Spot', 3, false
+ '1 to 2 Years', 'Border Collie ', 'Ilfracombe', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Spencer', 4, false
+ '1 to 2 Years', 'Staffordshire Bull Terrier (SBT)', 'West Calder', 'Male', true, false,,,,,,,Live wire,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Spencer', 4, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Darlington', 'Male', true, true,,Crossbreed,,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,Young at heart, false, 'Sparky', 5, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Ballymena (N.Ireland)', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,,,,,,,,,, false, 'Sparkle', 2, false
+ '2 to 5 Years', 'Lurcher ', 'Basildon', 'Female', false, false,,,Dog friendly,,,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, true, 'Sox', 0, false
+ '2 to 5 Years', 'Greyhound  ', 'Merseyside', 'Female', true, false,,,Dog friendly,Gentle giant,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, false, 'Sophie', 5, false
+ '2 to 5 Years', 'St Bernard', 'Ilfracombe', 'Female', true, false,,Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,,,,,,,,,Loves treats/will work for food,, false, 'Sky', 2, false
+ '6 to 12 Months', 'A Crossbreed ', 'Merseyside', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, true, 'Shady', 3, true
+ '8+ Years', 'Lurcher ', 'Merseyside', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, false, 'Shire', 5, true
+ '2 to 5 Years', 'Beagle  ', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, true, 'Silver', 5, true
+ '2 to 5 Years', 'Bulldog: French', 'Bridgend', 'Female', false, false,,,,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,, true, 'Star', 0, true
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, false, 'Suzie', 5, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Canterbury', 'Female', true, false,,,,,Has basic housetraining,,,,,,Needs some training,Small but sparky,,,,, false, 'Suzie', 3, false
+ '5 to 7 Years', 'A Crossbreed ', 'West Calder', 'Female', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Suzie', 5, false
+ '5 to 7 Years', 'Shih Tzu  ', 'Loughborough', 'Female', true, false,,Crossbreed,,,,,,,,,,Small but sparky,,,,, true, 'Susie', 2, true
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Leeds', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Sushi', 5, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Loughborough', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,,,, true, 'Sully', 2, false
+ '5 to 7 Years', 'Lurcher ', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,,,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Sully', 4, true
+ '2 to 5 Years', 'Lab Cross', 'Kenilworth', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Suede', 5, false
+ '0 to 6 Months', 'Akita', 'Ballymena (N.Ireland)', 'Female', false, false,,Crossbreed,Dog friendly,Gentle giant,,,Live wire,,,,,,,,,, true, 'Strawberries', 0, true
+ '8+ Years', 'A Crossbreed ', 'Merseyside', 'Female', true, false,,Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,,,,,,,Young at heart, false, 'Roxy', 5, false
+ '2 to 5 Years', 'Border Collie ', 'Kenilworth', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, true, 'Stella', 5, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Shoreham', 'Female', true, true,,Crossbreed,,,,Medical needs,,,,,,,Stranger friendly,,,Young at heart, false, 'Sophie', 5, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Kenilworth', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,,, false, 'Sophie', 5, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Basildon', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Sophie', 5, true
+ '5 to 7 Years', 'Cocker Spaniel', 'Loughborough', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,,,Stranger friendly,,,, true, 'Sonny', 2, true
+ '2 to 5 Years', 'Collie: Smooth  ', 'Loughborough', 'Male', true, false,,,,,,,,,Especially likes cuddles,,Needs some training,,,Bright spark/very clever,,, true, 'Mannie', 2, true
+ '1 to 2 Years', 'Beagle  ', 'London (Harefield)', 'Female', true, false,,,Dog friendly,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Suzie', 2, false
+ '8+ Years', 'Rottweiler ', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,,,,,,,,,Loves treats/will work for food,Young at heart, true, 'Solitaire', 1, false
+ '8+ Years', 'Bichon Frise ', 'Leeds', 'Male', true, true,,,,,Has basic housetraining,,Live wire,,,,,Small but sparky,,,Loves treats/will work for food,, false, 'Snowy', 5, true
+ '6 to 12 Months', 'A Crossbreed ', 'Leeds', 'Male', true, false,,Crossbreed,Dog friendly,,,Medical needs,,Living off site,,,Needs some training,,,,,, true, 'Snoopy', 4, false
+ '8+ Years', 'Elkhound  ', 'Loughborough', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,,, false, 'Smokey Joe', 5, false
+ '1 to 2 Years', 'Patterdale Terrier', 'Ballymena (N.Ireland)', 'Female', true, false,,,Dog friendly,,Has basic housetraining,,,,,,Needs some training,Small but sparky,,,,, true, 'Smokey', 1, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'London (Harefield)', 'Female', true, false,,,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Skye Staffi', 3, true
+ '5 to 7 Years', 'Collie Cross (Border)', 'Shoreham', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Shep', 5, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Salisbury', 'Female', true, false,,Crossbreed,,,,,,,,,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Sheeba', 2, true
+ '5 to 7 Years', 'Labrador', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Sheldon', 5, true
+ '5 to 7 Years', 'Greyhound  ', 'Shrewsbury', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Stevie', 5, false
+ '1 to 2 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Kenilworth', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Sheba', 4, true
+ '1 to 2 Years', 'Lab Cross', 'Snetterton', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Shadow', 1, true
+ '2 to 5 Years', 'Sheltie ( Shetland Sheepdog)', 'Newbury', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,Living off site,,,,Small but sparky,,,Loves treats/will work for food,, true, 'Shadow', 5, true
+ '8+ Years', 'A Crossbreed ', 'Shrewsbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Serraphin', 4, false
+ '1 to 2 Years', 'Border Collie ', 'Loughborough', 'Female', true, false,,,Dog friendly,,,,Live wire,,,,Needs some training,,,,,, true, 'Sky', 2, false
+ '5 to 7 Years', 'Lurcher ', 'Basildon', 'Male', false, false,,,,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,Young at heart, true, 'Ska', 0, false
+ '8+ Years', 'A Crossbreed ', 'Shoreham', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Sizzles', 5, false
+ '5 to 7 Years', 'Greyhound  ', 'Canterbury', 'Male', true, false,,,,,,,,Living off site,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Sleepy', 5, false
+ '2 to 5 Years', 'Lurcher ', 'London (Harefield)', 'Female', true, false,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Sizzles', 2, false
+ '1 to 2 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Kenilworth', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Sirius', 5, true
+ '8+ Years', 'Other', 'Loughborough', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,,Young at heart, false, 'Sir Ollie', 4, false
+ '8+ Years', 'A Crossbreed ', 'Basildon', 'Male', true, false,,Crossbreed,,Gentle giant,Has basic housetraining,Medical needs,,Living off site,,,,,Stranger friendly,,,, false, 'Sir Bruno', 5, false
+ '8+ Years', 'Collie Cross (Border)', 'Shoreham', 'Male', true, true,,Crossbreed,,,,Medical needs,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Marcus', 5, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Shoreham', 'Male', true, false,,,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Simba', 3, false
+ '2 to 5 Years', 'A Crossbreed ', 'Shoreham', 'Female', true, true,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Sheba', 5, false
+ '5 to 7 Years', 'Lab Cross', 'Evesham', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Simba', 5, true
+ '2 to 5 Years', 'Terrier Cross', 'West Calder', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,,,,,,,, false, 'Scooby', 5, false
+ '1 to 2 Years', 'Saluki ', 'Shrewsbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,,,Stranger friendly,,,, true, 'Scarlet', 4, false
+ '2 to 5 Years', 'Lurcher ', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Seamus', 5, false
+ '1 to 2 Years', 'Staffordshire Cross (SBT)', 'Snetterton', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, true, 'Sarah', 3, false
+ '2 to 5 Years', 'Saluki ', 'Salisbury', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Solly', 1, true
+ '1 to 2 Years', 'Lurcher ', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Samuel', 5, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Evesham', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,,Small but sparky,,Bright spark/very clever,,Young at heart, false, 'Spot', 1, false
+ '6 to 12 Months', 'Belgian Shepherd Dog: Malinois (BSD)', 'Shrewsbury', 'Male', true, false,,,,,,,Live wire,,Especially likes cuddles,,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Samson', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Shrewsbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Sam', 2, false
+ '8+ Years', 'Collie Cross (Border)', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,Medical needs,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,Young at heart, false, 'Sam', 1, false
+ '1 to 2 Years', 'Foxhound  ', 'London (Harefield)', 'Female', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Sally', 2, false
+ '5 to 7 Years', 'Border Collie ', 'Merseyside', 'Female', true, false,,,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,Bright spark/very clever,,, false, 'Sally', 4, true
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Merseyside', 'Female', true, true,,,,,Has basic housetraining,,,Living off site,Especially likes cuddles,,,Small but sparky,Stranger friendly,,,Young at heart, false, 'Sally', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Glasgow', 'Female', true, true,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Sage', 3, false
+ '1 to 2 Years', 'Rottweiler ', 'Kenilworth', 'Male', true, false,,,,,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Scooby', 4, true
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Shoreham', 'Female', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Saffi', 4, false
+ '1 to 2 Years', 'Pointer: English', 'London (Harefield)', 'Male', true, false,,,Dog friendly,,,,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Rusty', 2, true
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Salisbury', 'Female', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, false, 'Sansa', 5, false
+ '8+ Years', 'Terrier: Yorkshire ', 'Shoreham', 'Female', true, false,,,,,,,,Living off site,Especially likes cuddles,,,,,,,Young at heart, true, 'Scampi', 2, false
+ '8+ Years', 'Lab Cross', 'Snetterton', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Stan', 5, true
+ '8+ Years', 'A Crossbreed ', 'Shrewsbury', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Rusty', 5, false
+ '0 to 6 Months', 'A Crossbreed ', 'Bridgend', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,,,Especially likes cuddles,,,Small but sparky,,Bright spark/very clever,,, true, 'Rumba', 1, false
+ '5 to 7 Years', 'Rottweiler ', 'Kenilworth', 'Female', true, true,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Ruby', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Evesham', 'Female', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Ruby', 1, true
+ '1 to 2 Years', 'Dachshund: Std Smooth Hr ', 'Canterbury', 'Female', false, false,,,,,,,,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Roz', 0, false
+ '1 to 2 Years', 'A Crossbreed ', 'Kenilworth', 'Male', false, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Rubic', 0, false
+ '2 to 5 Years', 'Saluki ', 'Leeds', 'Male', true, true,,,Dog friendly,,Has basic housetraining,,Live wire,,,,,,,,Loves treats/will work for food,, false, 'Roy', 5, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Shoreham', 'Female', true, false,,,Dog friendly,,,,,,,Loves toys/games,,,,,,Young at heart, true, 'Roxy', 5, true
+ '2 to 5 Years', '', 'Leeds', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,Has basic housetraining,,Live wire,,,,,,Stranger friendly,,,, true, 'Ryder', 4, false
+ '1 to 2 Years', 'Lurcher ', 'Darlington', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Roxy', 5, false
+ '1 to 2 Years', 'Lurcher ', 'Darlington', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,,Living off site,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Rowland', 5, false
+ '0 to 6 Months', 'Bulldog: French', 'Evesham', 'Male', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Rowan', 1, true
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Sam', 5, false
+ '2 to 5 Years', 'Pointer: English', 'Evesham', 'Male', true, false,,,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Rover', 1, true
+ '8+ Years', 'Rhodesian Ridgeback', 'Leeds', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,,,,,,Young at heart, false, 'Rosie', 5, true
+ '2 to 5 Years', 'Lurcher ', 'Darlington', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,,Living off site,,,,,Stranger friendly,,Loves treats/will work for food,, true, 'Rossco', 1, false
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Shoreham', 'Female', true, true,,,,,Has basic housetraining,Medical needs,,Living off site,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Rosie', 4, false
+ '1 to 2 Years', 'A Crossbreed ', 'West Calder', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, false, 'Rory', 5, false
+ '2 to 5 Years', 'Rottweiler ', 'Loughborough', 'Male', true, false,,Crossbreed,,Gentle giant,Has basic housetraining,,Live wire,,Especially likes cuddles,,Needs some training,,,,,, false, 'Roomba', 5, false
+ '2 to 5 Years', 'Border Collie ', 'Loughborough', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,,,, true, 'Ronnie', 2, true
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Merseyside', 'Female', true, false,,,,,Has basic housetraining,,,Living off site,Especially likes cuddles,,,,Stranger friendly,,,Young at heart, true, 'Sadie', 3, false
+ '5 to 7 Years', 'Chihuahua: Short Hr', 'London (Harefield)', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Roly', 2, true
+ '1 to 2 Years', 'Staffordshire Bull Terrier (SBT)', 'Shoreham', 'Female', true, false,,,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, true, 'Roly', 4, false
+ '2 to 5 Years', 'Beagle  ', 'Merseyside', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,Live wire,,,,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Rossi', 4, true
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'London (Harefield)', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,Small but sparky,,,,, true, 'Rodger', 1, false
+ '8+ Years', 'Bulldog: English', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,Stranger friendly,,,, false, 'Rocky', 2, false
+ '2 to 5 Years', 'Terrier Cross', 'Kenilworth', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,,,Small but sparky,,,Loves treats/will work for food,, false, 'Ruffles', 4, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,,,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Rocky', 5, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Rocky', 5, false
+ '6 to 12 Months', 'Spaniel Cross', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, true, 'Rory', 2, true
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Snetterton', 'Male', true, false,,Crossbreed,,,,,,,,,,Small but sparky,Stranger friendly,,Loves treats/will work for food,, true, 'Rocky', 1, true
+ '2 to 5 Years', 'Lurcher ', 'Evesham', 'Male', true, false,,,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Rocket', 1, true
+ '1 to 2 Years', 'Belgian Shepherd Dog: Malinois (BSD)', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Rocket', 2, false
+ '2 to 5 Years', 'Rottweiler ', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Robert', 1, true
+ '1 to 2 Years', 'Greyhound  ', 'Ilfracombe', 'Male', true, false,,,Dog friendly,Gentle giant,,,Live wire,,Especially likes cuddles,Loves toys/games,,,,,,, false, 'Roy', 1, false
+ '1 to 2 Years', 'A Crossbreed ', 'Leeds', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,Stranger friendly,,,, true, 'River', 2, true
+ '2 to 5 Years', 'A Crossbreed ', 'Salisbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Ripple', 3, false
+ '2 to 5 Years', 'Pointer: English', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Romeo', 4, true
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Merseyside', 'Male', true, true,,,,Gentle giant,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Riley', 5, false
+ '1 to 2 Years', 'Spaniel: English Springer', 'Evesham', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Rhonda', 1, true
+ '1 to 2 Years', 'Terrier Cross', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,Living off site,,,Needs some training,,,,Loves treats/will work for food,, false, 'Rex', 3, true
+ '2 to 5 Years', 'Lab Cross', 'Snetterton', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Rex', 3, false
+ '5 to 7 Years', 'Staffordshire Cross (SBT)', 'Loughborough', 'Male', true, false,,Crossbreed,,Gentle giant,,,,,,,,,,,Loves treats/will work for food,, false, 'Rufus', 4, false
+ '5 to 7 Years', 'Terrier Cross', 'Ballymena (N.Ireland)', 'Female', true, false,,Crossbreed,,,,,,,,,,Small but sparky,Stranger friendly,,,, true, 'Remi', 1, false
+ '2 to 5 Years', 'Lurcher ', 'Newbury', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Reilly', 5, false
+ '8+ Years', 'Patterdale Terrier', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,Loves treats/will work for food,, true, 'Reg', 5, false
+ '2 to 5 Years', 'Greyhound  ', 'Leeds', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, true, 'Rebel', 4, false
+ '8+ Years', 'Beagle  ', 'Evesham', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,,, true, 'Raven', 2, false
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Shrewsbury', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, false, 'Rj', 4, true
+ '1 to 2 Years', 'Jack Russell Terrier (JRT)', 'Evesham', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, true, 'Rascal', 1, true
+ '2 to 5 Years', 'Border Collie ', 'Basildon', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Ranger', 5, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Salisbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Ranger', 5, true
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Ralphie', 5, false
+ '0 to 6 Months', 'Spaniel Cross', 'West Calder', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Ralph', 1, true
+ '0 to 6 Months', 'Akita', 'Ballymena (N.Ireland)', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,,, true, 'Racket', 1, true
+ '8+ Years', 'Greyhound  ', 'Merseyside', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,Gentle giant,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, false, 'Quin', 3, true
+ '1 to 2 Years', 'Patterdale Terrier', 'Loughborough', 'Female', true, true,,,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,,, false, 'Purdy', 5, false
+ '5 to 7 Years', 'Pug ', 'Newbury', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,Small but sparky,,,,, true, 'Rocky', 4, false
+ '2 to 5 Years', 'Spaniel: English Springer', 'Basildon', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, true, 'Princess Daisy', 5, true
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Loughborough', 'Female', true, true,,,,,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Princess', 4, false
+ '5 to 7 Years', 'Cocker Spaniel', 'Loughborough', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,,, false, 'Scooby', 5, false
+ '2 to 5 Years', 'Pointer: English', 'Darlington', 'Male', true, true,,Crossbreed,,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Rango', 5, false
+ '8+ Years', 'Lab Cross', 'Glasgow', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,Young at heart, false, 'Potter', 5, false
+ '6 to 12 Months', 'Lurcher ', 'Shrewsbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,,,,,Stranger friendly,,,, false, 'Poppy', 3, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Merseyside', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,Living off site,,,Needs some training,,,,,, false, 'Randall', 5, false
+ '2 to 5 Years', 'Shih Tzu  ', 'Ballymena (N.Ireland)', 'Female', true, false,,,Dog friendly,,,Medical needs,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, true, 'Poppy', 1, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Shrewsbury', 'Female', true, false,,Crossbreed,,,,,,,,,,,,,,, true, 'Poppy', 3, false
+ '8+ Years', 'A Crossbreed ', 'Shrewsbury', 'Female', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Poppy', 5, false
+ '5 to 7 Years', 'Portuguese Pointer', 'London (Harefield)', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,,Young at heart, true, 'Remy', 3, false
+ '8+ Years', 'Spaniel: English Springer', 'Kenilworth', 'Female', true, false,,,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,,, false, 'Poppy', 4, true
+ '2 to 5 Years', 'Dalmatian ', 'Canterbury', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Pongo', 2, false
+ '1 to 2 Years', 'Lab Cross', 'Basildon', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Polly', 2, false
+ '2 to 5 Years', 'Lurcher ', 'Evesham', 'Female', true, false,,,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Robyn', 1, true
+ '2 to 5 Years', 'Lurcher ', 'Kenilworth', 'Female', true, true,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Precious', 5, true
+ '8+ Years', 'Terrier Cross', 'Newbury', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,Young at heart, false, 'Pippin', 5, false
+ '8+ Years', 'Terrier: Yorkshire ', 'Merseyside', 'Male', true, false,,,,,Has basic housetraining,,,,,,Needs some training,Small but sparky,Stranger friendly,,,Young at heart, false, 'Pippin', 2, true
+ '1 to 2 Years', 'Boxer  ', 'Manchester', 'Female', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Pippa', 4, true
+ '1 to 2 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Riddle', 4, true
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Shrewsbury', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,Bright spark/very clever,,, true, 'Poppy', 5, false
+ '8+ Years', 'Terrier: Yorkshire ', 'West Calder', 'Female', true, false,,,Dog friendly,,,Medical needs,,Living off site,,,,Small but sparky,,,,Young at heart, true, 'Polly', 1, true
+ '1 to 2 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Tess', 5, true
+ '5 to 7 Years', 'Mastiff: Bull', 'Loughborough', 'Male', true, true,,Crossbreed,,,,,,,,,Needs some training,,,,,, false, 'Preston', 5, false
+ '2 to 5 Years', 'Pug ', 'Bridgend', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,,,Loves treats/will work for food,, false, 'Teemo', 1, false
+ '1 to 2 Years', 'Lurcher ', 'Salisbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Teddy', 1, true
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Darlington', 'Male', true, false,,,,,Has basic housetraining,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Teddy', 2, false
+ '5 to 7 Years', 'Akita', 'Kenilworth', 'Male', true, false,,,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Theo', 5, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Bridgend', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,,,,,,,,,,, false, 'Tilly', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Salisbury', 'Male', true, false,,Crossbreed,,,,,,,,,,,,,,, true, 'Vince', 1, true
+ '5 to 7 Years', 'Collie Cross (Border)', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,Living off site,,Loves toys/games,,,,Bright spark/very clever,,, false, 'Woody', 5, false
+ '6 to 12 Months', 'A Crossbreed ', 'Merseyside', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Woody', 5, false
+ '2 to 5 Years', 'Pug ', 'Loughborough', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,,, true, 'Winston', 2, false
+ '6 to 12 Months', 'Whippet', 'Bridgend', 'Female', false, false,,,,,,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Winnie', 0, true
+ '2 to 5 Years', 'Greyhound  ', 'Merseyside', 'Female', true, false,Child friendly (under 12 yrs),,,Gentle giant,,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Tess', 3, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Evesham', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Willow', 5, false
+ '8+ Years', 'Beagle  ', 'Salisbury', 'Female', true, false,,Crossbreed,,,,,,,,,Needs some training,,,,,, false, 'Willow', 3, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'Bridgend', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,,Small but sparky,,,,, true, 'Wilf', 3, true
+ '2 to 5 Years', 'Collie Cross (Border)', 'Bridgend', 'Male', true, true,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Whiskey', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Snetterton', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Teddy', 2, true
+ '1 to 2 Years', 'Terrier Cross', 'London (Harefield)', 'Male', true, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,, false, 'Ted', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Trevor', 5, true
+ '8+ Years', 'Terrier Cross', 'London (Harefield)', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,Young at heart, false, 'Theo', 4, false
+ '6 to 12 Months', 'Jack Russell Terrier (JRT)', 'Merseyside', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,Stranger friendly,,,, true, 'Poppy', 2, true
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Tonks', 4, false
+ '8+ Years', 'Collie Cross (Border)', 'Kenilworth', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Tess', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,,,,,,,, false, 'Toby', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Merseyside', 'Male', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,,Needs some training,,Stranger friendly,Bright spark/very clever,,, false, 'Toby', 5, false
+ '1 to 2 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Loughborough', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,Needs some training,,,,,, true, 'Tobias', 2, false
+ '2 to 5 Years', 'Lurcher ', 'Loughborough', 'Male', true, false,,,Dog friendly,,,,Live wire,,,,,,,,,, true, 'Ted', 3, false
+ '2 to 5 Years', 'Terrier: Lakeland  ', 'Darlington', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,Stranger friendly,,Loves treats/will work for food,, false, 'Tip', 5, false
+ '8+ Years', 'Beagle  ', 'Snetterton', 'Female', false, false,,,Dog friendly,,,,,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Tilly', 0, false
+ '2 to 5 Years', 'Terrier Cross', 'Manchester', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Ted', 5, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Evesham', 'Male', true, false,,,Dog friendly,,Has basic housetraining,,,,,,,Small but sparky,,Bright spark/very clever,Loves treats/will work for food,Young at heart, true, 'Taylor', 1, true
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Glasgow', 'Male', true, true,,Crossbreed,,,Has basic housetraining,Medical needs,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,Young at heart, false, 'Tom', 4, false
+ '2 to 5 Years', 'Shar-Pei  ', 'London (Harefield)', 'Female', false, false,,,Dog friendly,,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Tara', 0, false
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Tanner', 4, false
+ '5 to 7 Years', 'Boxer  ', 'Bridgend', 'Female', true, true,,,,,,,,,,,,,,,Loves treats/will work for food,, false, 'Tallulah', 3, false
+ '1 to 2 Years', 'German Shepherd Dog (GSD / Alsatian)', 'London (Harefield)', 'Male', true, false,,,Dog friendly,,,,Live wire,,Especially likes cuddles,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Taggart', 2, false
+ '6 to 12 Months', 'Border Collie ', 'Loughborough', 'Male', true, false,,,Dog friendly,,,,,,,,Needs some training,,,Bright spark/very clever,,, true, 'Taco', 2, false
+ '1 to 2 Years', 'Lurcher ', 'Snetterton', 'Female', false, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, true, 'Sylvie', 0, false
+ '5 to 7 Years', 'Greyhound  ', 'Shrewsbury', 'Male', true, false,Child friendly (under 12 yrs),,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, true, 'Wee Frosty', 5, false
+ '2 to 5 Years', 'Siberian Husky  ', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Tizzy', 1, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Weasley', 4, true
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Bridgend', 'Male', true, false,,,,,,,Live wire,,,Loves toys/games,,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Wally', 3, true
+ '1 to 2 Years', 'A Crossbreed ', 'Ballymena (N.Ireland)', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Zed', 1, false
+ '5 to 7 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Shrewsbury', 'Female', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, true, 'Zea', 5, false
+ '1 to 2 Years', 'Dobermann  ', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,Stranger friendly,Bright spark/very clever,Loves treats/will work for food,, false, 'Zeus', 5, false
+ '5 to 7 Years', 'Staffordshire Bull Terrier (SBT)', 'Kenilworth', 'Female', true, false,,,,,,,,,,,Needs some training,,,,,, false, 'Zeta', 4, false
+ '8+ Years', 'Boxer  ', 'Ilfracombe', 'Male', true, false,,Crossbreed,,Gentle giant,,,,,Especially likes cuddles,,,,Stranger friendly,,Loves treats/will work for food,Young at heart, true, 'Zeebo', 2, true
+ '2 to 5 Years', 'Terrier Cross', 'Bridgend', 'Female', true, false,,Crossbreed,,,,,,,,Loves toys/games,,Small but sparky,,,Loves treats/will work for food,, false, 'Sybil', 3, false
+ '2 to 5 Years', 'Collie Cross (Border)', 'Shoreham', 'Male', true, true,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,,, false, 'Yoda', 5, false
+ '5 to 7 Years', 'Whippet', 'Merseyside', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,, false, 'Yargo', 3, true
+ '1 to 2 Years', 'Bearded Collie', 'Evesham', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,,,,,, false, 'Walter', 2, true
+ '2 to 5 Years', 'Terrier Cross', 'Merseyside', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,Small but sparky,Stranger friendly,,,, false, 'Xavier', 3, true
+ '5 to 7 Years', 'Lab Cross', 'Snetterton', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,,,,,Bright spark/very clever,Loves treats/will work for food,, true, 'Toby', 1, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'Kenilworth', 'Male', true, false,,,,,,,,,,,Needs some training,,,,,, false, 'Wootie-Blue', 3, true
+ '8+ Years', 'A Crossbreed ', 'Shrewsbury', 'Male', true, true,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,,Young at heart, false, 'Will', 5, false
+ '5 to 7 Years', '', 'Kenilworth', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Woody', 5, false
+ '8+ Years', 'Staffordshire Bull Terrier (SBT)', 'Canterbury', 'Male', false, false,Child friendly (under 12 yrs),,Dog friendly,,,,,,Especially likes cuddles,,,,Stranger friendly,,,, true, 'Vinnie', 0, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Loughborough', 'Male', true, false,,Crossbreed,,,,,Live wire,,Especially likes cuddles,,Needs some training,,,,,, false, 'Vinnie', 4, false
+ '2 to 5 Years', 'American Bulldog', 'West Calder', 'Male', true, false,,Crossbreed,,Gentle giant,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Vinnie', 5, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Loughborough', 'Male', true, true,,Crossbreed,,,,,,,,,Needs some training,,,,,Young at heart, true, 'Vincent', 2, false
+ '8+ Years', 'A Crossbreed ', 'Shoreham', 'Female', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, true, 'Victoria', 2, true
+ '8+ Years', 'Jack Russell Terrier (JRT)', 'Loughborough', 'Male', true, true,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Vernon', 5, false
+ '2 to 5 Years', 'Border Collie ', 'Evesham', 'Male', true, true,,,,,,,Live wire,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Wrango', 5, false
+ '8+ Years', 'Lurcher ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Uno', 4, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Shrewsbury', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,,Loves toys/games,,,,,Loves treats/will work for food,, true, 'Tyson', 1, false
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,Dog friendly,Gentle giant,,,,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Tyson', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Basildon', 'Male', false, false,,Crossbreed,Dog friendly,Gentle giant,,,Live wire,,,,Needs some training,,,,Loves treats/will work for food,, true, 'Tom', 0, false
+ '5 to 7 Years', 'A Crossbreed ', 'Salisbury', 'Male', true, false,,Crossbreed,,,Has basic housetraining,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Ty', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Kenilworth', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Twister', 4, true
+ '5 to 7 Years', 'Shih Tzu  ', 'Evesham', 'Female', true, false,,,,,Has basic housetraining,,,,,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Tallulah', 4, false
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Tucker', 5, false
+ '2 to 5 Years', 'Patterdale Terrier', 'Loughborough', 'Male', true, true,,,,,,,Live wire,,,,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Tucker', 5, false
+ '8+ Years', 'Collie Cross (Border)', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,,,,,,,Needs some training,,,Bright spark/very clever,,Young at heart, false, 'Tucker', 5, false
+ '8+ Years', 'Staffordshire Cross (SBT)', 'Glasgow', 'Male', true, false,,Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,,,,Young at heart, false, 'Troy', 3, false
+ '5 to 7 Years', 'Lurcher ', 'Shrewsbury', 'Female', true, false,,Crossbreed,,,Has basic housetraining,,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,,, false, 'Trixie', 5, false
+ '2 to 5 Years', 'Lurcher ', 'Shrewsbury', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,,,,,,,, false, 'Usher', 3, false
+ '2 to 5 Years', 'Lab Cross', 'Shoreham', 'Male', true, true,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Tigs', 5, false
+ '6 to 12 Months', 'Staffordshire Cross (SBT)', 'Glasgow', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,Live wire,,,,Needs some training,,Stranger friendly,,,, true, 'Tigger', 1, true
+ '2 to 5 Years', 'A Crossbreed ', 'Salisbury', 'Male', true, true,,Crossbreed,,,,,Live wire,,,,Needs some training,,,Bright spark/very clever,Loves treats/will work for food,, false, 'Tommy', 5, false
+ '2 to 5 Years', 'Lurcher ', 'London (Harefield)', 'Male', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,Loves toys/games,,,Stranger friendly,,,, false, 'Tigger', 2, false
+ '8+ Years', 'A Crossbreed ', 'Darlington', 'Female', true, true,,Crossbreed,,,Has basic housetraining,,,,,Loves toys/games,,,,,Loves treats/will work for food,, false, 'Tigger', 5, false
+ '8+ Years', 'Pointer: German Wire Hr  ', 'London (Harefield)', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,Especially likes cuddles,,Needs some training,,,,Loves treats/will work for food,, false, 'Tiddles', 4, false
+ '2 to 5 Years', 'Staffordshire Cross (SBT)', 'Evesham', 'Male', true, false,,Crossbreed,,,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,Bright spark/very clever,,, false, 'Tumble', 5, false
+ '5 to 7 Years', 'A Crossbreed ', 'Manchester', 'Female', true, true,,Crossbreed,,,,,,,Especially likes cuddles,,Needs some training,,Stranger friendly,,Loves treats/will work for food,, false, 'Tia', 5, false
+ '2 to 5 Years', 'Greyhound  ', 'Canterbury', 'Male', true, true,,,,Gentle giant,,,,,,,Needs some training,,,,Loves treats/will work for food,, false, 'Vinnie', 4, true
+ '1 to 2 Years', 'Chihuahua: Long Hr ', 'Salisbury', 'Male', true, false,,,,,,,,,,,Needs some training,,,Bright spark/very clever,,, true, 'Thor', 1, true
+ '2 to 5 Years', 'German Shepherd Dog (GSD / Alsatian)', 'Salisbury', 'Male', true, false,,,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Thomas', 5, false
+ '0 to 6 Months', 'Lurcher ', 'West Calder', 'Male', true, false,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,,, true, 'Theodore', 1, true
+ '2 to 5 Years', 'A Crossbreed ', 'Kenilworth', 'Male', true, false,,Crossbreed,,,,,,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, false, 'Tetley', 5, false
+ '2 to 5 Years', 'A Crossbreed ', 'Manchester', 'Female', true, false,,Crossbreed,,Gentle giant,,,,,Especially likes cuddles,Loves toys/games,Needs some training,,,,,, false, 'Zara', 5, false
+ '5 to 7 Years', 'Jack Russell Terrier (JRT)', 'Glasgow', 'Male', true, true,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,Small but sparky,,,Loves treats/will work for food,, false, 'Teddy', 4, false
+ '2 to 5 Years', 'Jack Russell Terrier (JRT)', 'Basildon', 'Male', true, false,,Crossbreed,,,,,Live wire,,,,Needs some training,Small but sparky,,Bright spark/very clever,,, false, 'Teddy', 5, false
+ '5 to 7 Years', 'Lurcher ', 'Kenilworth', 'Male', false, false,,Crossbreed,,,,,Live wire,,,Loves toys/games,Needs some training,,,,Loves treats/will work for food,, true, 'Trigger', 0, false
+ '8+ Years', 'Lab Cross', 'Bridgend', 'Male', true, false,,Crossbreed,Dog friendly,,,,,,Especially likes cuddles,Loves toys/games,,,,,Loves treats/will work for food,, true, 'Tyke', 3, false
+ '2 to 5 Years', 'Staffordshire Bull Terrier (SBT)', 'Darlington', 'Female', true, false,,,,,Has basic housetraining,,Live wire,,,Loves toys/games,Needs some training,,Stranger friendly,,Loves treats/will work for food,, true, 'Tia', 2, true
+ '5 to 7 Years', 'A Crossbreed ', 'Merseyside', 'Female', true, false,Child friendly (under 12 yrs),Crossbreed,Dog friendly,,Has basic housetraining,,,,Especially likes cuddles,,,,Stranger friendly,,,Young at heart, true, 'Thyme', 3, false
+ '5 to 7 Years', 'Lurcher ', 'Darlington', 'Male', true, true,,Crossbreed,Dog friendly,,,,Live wire,,,Loves toys/games,,,Stranger friendly,,Loves treats/will work for food,, false, 'Trigger', 5, false
